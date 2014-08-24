@@ -1,0 +1,751 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+ <head> 
+  <title>School Reports</title> 
+  <meta name="Generator" content="Microsoft FrontPage 5.0" /> 
+  <meta name="Author" content="" /> 
+  <meta name="Keywords" content="" /> 
+  <meta name="Description" content="" /> 
+ </head> 
+ <body topmargin="0" leftmargin="0"> 
+  <p align="left" style="margin-top: 0; margin-bottom: 0"> <font face="Verdana" size="1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="src09.asp?cmbschool=28010101201&amp;cmbstate=28&amp;cmbdistrict=All Districts" style="text-decoration: none"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </font> </p> 
+  <div align="center"> 
+   <center> 
+    <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; " width="910" id="AutoNumber1" height="16" bordercolor="#FFFFFF"> 
+     <tbody>
+      <tr> 
+       <td width="1394" style="border-style: none; border-width: medium" height="7" colspan="5"> <p align="center"> <font face="Verdana" size="1"> Change Language - <a target="_blank" style="text-decoration: none" href="http://schoolreportcards.in/temp/seeschoolreportdetail13_hindi.asp?cmbschool=28010101201&amp;cmbstate=28&amp;cmbdistrict=All Districts">Hindi</a>, <a target="_blank" style="text-decoration: none" href="http://schoolreportcards.in/temp/seeschoolreportdetail13_marathi.asp?cmbschool=28010101201&amp;cmbstate=28&amp;cmbdistrict=All Districts">Marathi</a>,&nbsp; <a target="_blank" style="text-decoration: none" href="http://schoolreportcards.in/temp/seeschoolreportdetail13_kannada.asp?cmbschool=28010101201&amp;cmbstate=28&amp;cmbdistrict=All Districts">Kannada</a>,&nbsp; <a target="_blank" style="text-decoration: none" href="http://schoolreportcards.in/temp/seeschoolreportdetail13_malayalam.asp?cmbschool=28010101201&amp;cmbstate=28&amp;cmbdistrict=All Districts">Malayalam</a>,&nbsp; <a target="_blank" style="text-decoration: none" href="http://schoolreportcards.in/temp/seeschoolreportdetail13_tamil.asp?cmbschool=28010101201&amp;cmbstate=28&amp;cmbdistrict=All Districts">Tamil</a>,&nbsp; <a target="_blank" style="text-decoration: none" href="http://schoolreportcards.in/temp/seeschoolreportdetail13_telugu.asp?cmbschool=28010101201&amp;cmbstate=28&amp;cmbdistrict=All Districts">Telugu</a>,&nbsp; <a target="_blank" style="text-decoration: none" href="http://schoolreportcards.in/temp/seeschoolreportdetail13_gujurati.asp?cmbschool=28010101201&amp;cmbstate=28&amp;cmbdistrict=All Districts">Gujarati,</a> <a target="_blank" style="text-decoration: none" href="http://schoolreportcards.in/temp/seeschoolreportdetail13_Punjabi.asp?cmbschool=28010101201&amp;cmbstate=28&amp;cmbdistrict=All Districts">Punjabi</a>&nbsp;</font></p></td>  
+      </tr> 
+      <tr> 
+       <td width="233" style="border-style: none; border-width: medium" height="23"> <font face="Verdana" size="1"> <a href="javascript:window.print()" style="text-decoration: none">Click to print this page</a></font></td> 
+       <td width="646" style="border-style: none; border-width: medium" height="23"> <font size="1" face="Verdana">Previous year report card - <a target="_blank" style="text-decoration: none" href="seeschoolreportdetail12.asp?cmbschool=28010101201&amp;cmbstate=28&amp;cmbdistrict=All Districts&amp;cmbyear=1950">2011-12,</a>&nbsp; <a target="_blank" style="text-decoration: none" href="seeschoolreportdetail11.asp?cmbschool=28010101201&amp;cmbstate=28&amp;cmbdistrict=All Districts&amp;cmbyear=1950">2010-11,</a>&nbsp; <a target="_blank" style="text-decoration: none" href="seeschoolreportdetail10.asp?cmbschool=28010101201&amp;cmbstate=28&amp;cmbdistrict=All Districts&amp;cmbyear=1950">2009-10,</a>&nbsp; <a target="_blank" style="text-decoration: none" href="seeschoolreportdetail09.asp?cmbschool=28010101201&amp;cmbstate=28&amp;cmbdistrict=All Districts&amp;cmbyear=1950">2008-09</a> </font> &nbsp;</td> 
+       <td width="315" style="border-style: none; border-width: medium" height="23"> <p align="right"> <font face="Verdana" size="1"> <a style="text-decoration: none" href="src13.asp?cmbschool=28010101201&amp;cmbstate=28&amp;cmbdistrict=All Districts">Click Here to see <b> Detailed Report</b></a></font></p></td> 
+       <td width="330" style="border-style: none; border-width: medium" height="23" bgcolor="#FFFFFF"> <p align="right"><b><font face="Verdana" size="1"> <a style="text-decoration: none" href="seeschoolreportdetail13_RTE.asp?cmbschool=28010101201&amp;cmbstate=28&amp;cmbdistrict=All Districts">Click here to see RTE Report Card</a></font></b></p></td> 
+       <td width="1" style="border-left-width:1; border-right-style:solid; border-right-width:1; border-top-style:solid; border-top-width:1; border-bottom-style:solid; border-bottom-width:1" height="23" bordercolor="#FFFFFF"> </td> 
+      </tr> 
+     </tbody>
+    </table> 
+   </center> 
+  </div> 
+  <p align="left" style="margin-top: 0; margin-bottom: -1"> <font face="Verdana" size="1"> <a href="src08.asp?cmbschool=28010101201&amp;cmbstate=28&amp;cmbdistrict=All Districts" style="text-decoration: none"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </font></p> 
+  <div align="center"> 
+   <center> 
+    <table width="856" cellpadding="0" cellspacing="0" rowpadding="0" border="1" height="824" style="border-collapse: collapse" bordercolor="#FFFFFF"> 
+     <tbody>
+      <tr> 
+       <td colspan="3" bgcolor="#990033" height="3" width="800"> <p align="center"><font face="Verdana"><b><font size="1" color="#FFFFFF">SCHOOL REPORT CARD:2012-13*</font></b></font></p> </td>
+      </tr>  
+      <tr> 
+       <td bgcolor="#990033" height="12" width="346"><b> <font face="Verdana" size="1" color="#FFFFFF">State ANDHRA PRADESH</font></b></td> 
+       <td bgcolor="#990033" height="12" width="333"><b> <font face="Verdana" size="1" color="#FFFFFF">District Name ADILABAD</font></b></td> 
+       <td bgcolor="#990033" height="51" width="119" align="center" style="border-left-style: solid; border-left-width: 1; border-right-style: solid; border-right-width: 1; border-top-style: solid; border-top-width: 1; border-bottom-width: 1" rowspan="4"> <p align="left" style="margin-top: 0; margin-bottom: 0"> <font color="#FFFFFF" face="Verdana" size="1">Grade*</font> 
+         <!--
+<p style="margin-top: 0; margin-bottom: 0">
+
+<font color="#FFFFFF" face="Verdana" size="1">Grade*</font></p>
+<p style="margin-top: 0; margin-bottom: 0"><b>
+<font face="Verdana" size="6" color="#FFFFFF">&nbsp;/10 </font></b>--> </p><p style="margin-top: 0; margin-bottom: 0">&nbsp; <font face="Verdana" size="6" color="#FFFFFF">&nbsp;5/10 </font> </p></td> 
+      </tr> 
+      <tr> 
+       <td bgcolor="#990033" height="9" width="346"> <font face="Verdana" size="1" color="#FFFFFF"><b>School Code</b>&nbsp;&nbsp;&nbsp;28010101201 </font> </td> 
+       <td bgcolor="#990033" height="9" width="333"> <font face="Verdana" size="1" color="#FFFFFF"><b>School Name</b>&nbsp;&nbsp;&nbsp;MPPS TALAMADUGU </font> </td> 
+      </tr> 
+      <tr> 
+       <td bgcolor="#990033" height="12" width="346"><font color="#FFFFFF"><b> <font face="Verdana" size="1">Block Name</font></b><font face="Verdana" size="1">&nbsp;&nbsp;&nbsp;TALAMADUGU </font> </font> </td> 
+       <td bgcolor="#990033" height="12" width="333"> <font face="Verdana" size="1" color="#FFFFFF"><b>Cluster Name</b>&nbsp;&nbsp;&nbsp;ZPSS, TALAMADUGU </font> </td> 
+      </tr> 
+      <tr> 
+       <td bgcolor="#990033" height="12" width="346"> <font face="Verdana" size="1" color="#FFFFFF"><b>Village Name</b>&nbsp;&nbsp;&nbsp;TALAMADUGU </font> </td> 
+       <td bgcolor="#990033" height="12" width="333"> <font face="Verdana" size="1" color="#FFFFFF"><b>Name of Head Master</b>&nbsp;&nbsp;&nbsp; </font> </td> 
+      </tr> 
+      <tr> 
+       <td colspan="3" bgcolor="#990033" height="12" width="800"> <font face="Verdana" size="1" color="#FFFFFF"><b>General Information&nbsp; (PINCODE:504312) </b></font></td> 
+      </tr> 
+      <tr height="19" width="800"> 
+       <td colspan="3" height="752" width="800"> 
+        <table border="1" cellpadding="0" cellspacing="0" rowpadding="0" rowspacing="0" width="908" style="border-collapse: collapse" bordercolor="#C0C0C0" height="10"> 
+         <tbody>
+          <tr height="19" width="800"> 
+           <td bordercolor="#D2D200" height="2" width="209" style="border-left-style: solid; border-left-width: 1; border-right-width: 1; border-top-width: 1; border-bottom-width: 1" dir="ltr"><font face="Verdana" size="1">Rural / Urban</font></td> 
+           <td align="center" style="font-size: 10pt; border-left-width:1; border-right-style:solid; border-right-width:1; border-top-width:1; border-bottom-width:1" bordercolor="#D2D200" height="2" width="103" dir="ltr"><font face="Verdana" size="1"> Rural</font></td> 
+           <td bordercolor="#D2D200" height="2" width="268"><font face="Verdana" size="1"> Distance from BRC (Km.)</font></td> 
+           <td align="center" style="font-size: 10pt" bordercolor="#D2D200" height="2" width="30"><font face="Verdana" size="1"> 0</font></td> 
+           <td style="margin-right: 0; margin-bottom: 0" nowrap="" valign="top" bordercolor="#D2D200" height="7" width="220"> <font face="Verdana" size="1">Distance From CRC (Km.)</font></td> 
+           <td colspan="2" style="vertical-align: text-top" bordercolor="#D2D200" height="7" align="center" width="80"><font face="Verdana" size="1"> 0 </font></td> 
+          </tr> 
+          <tr height="19"> 
+           <td style="margin-right: 0; margin-bottom: 0; border-left-style:solid; border-left-width:1; border-right-width:1; border-top-width:1; border-bottom-width:1" nowrap="" valign="top" bordercolor="#D2D200" height="7" width="209"> <font face="Verdana" size="1">Type of Residential School</font></td> 
+           <td align="center" style="margin-right: 0; margin-bottom: 0; font-size:10pt; border-left-width:1; border-right-style:solid; border-right-width:1; border-top-width:1; border-bottom-width:1" nowrap="" valign="top" bordercolor="#D2D200" height="7" width="103" aligh="center"><font face="Verdana" size="1"> </font></td> 
+           <td style="margin-right: 0; margin-bottom: 0" nowrap="" valign="top" bordercolor="#D2D200" height="7" width="268"> <font face="Verdana" size="1">Residential School</font></td> 
+           <td style="margin-right: 0; margin-bottom: 0; font-size:10pt" nowrap="" valign="top" bordercolor="#D2D200" height="7" align="center" width="30"><font face="Verdana" size="1"> No </font></td> 
+           <td style="margin-right: 0; margin-bottom: 0" nowrap="" valign="top" bordercolor="#D2D200" height="7" width="220"> <font face="Verdana" size="1"> Approachable by all weather roads </font></td> 
+           <td colspan="2" style="vertical-align: text-top" bordercolor="#D2D200" height="7" align="center" width="80"><font face="Verdana" size="1"> Yes </font></td> 
+          </tr> 
+          <tr height="19"> 
+           <td height="9" bordercolor="#D2D200" width="209" style="border-left-style: solid; border-left-width: 1; border-right-width: 1; border-top-width: 1; border-bottom-width: 1"><font face="Verdana" size="1">School Category</font></td> 
+           <td align="center" style="font-size: 10pt; border-left-width:1; border-right-style:solid; border-right-width:1; border-top-width:1; border-bottom-width:1" bordercolor="#D2D200" height="9" width="103"><font face="Verdana" size="1"> Primary only </font></td> 
+           <td style="vertical-align: text-top" bordercolor="#D2D200" height="7" width="268"> <font face="Verdana" size="1">Lowest Class in school</font></td> 
+           <td align="center" style="vertical-align: text-top; font-size:10pt" bordercolor="#D2D200" height="7" width="30"><font face="Verdana" size="1"> 1</font></td> 
+           <td style="vertical-align: text-top" bordercolor="#D2D200" height="8" width="220"> <font face="Verdana" size="1">Highest class in school</font></td> 
+           <td colspan="2" style="vertical-align: text-top" bordercolor="#D2D200" align="center" height="8" width="80"><font face="Verdana" size="1"> 5</font></td> 
+          </tr> 
+          <tr height="19"> 
+           <td height="1" bordercolor="#D2D200" width="209" style="border-left-style: solid; border-left-width: 1; border-right-width: 1; border-top-width: 1; border-bottom-width: 1"><font face="Verdana" size="1">Pre-primary Section</font></td> 
+           <td align="center" style="font-size: 10pt; border-left-width:1; border-right-style:solid; border-right-width:1; border-top-width:1; border-bottom-width:1" bordercolor="#D2D200" height="1" width="103"><font face="Verdana" size="1"> No </font></td> 
+           <td nowrap="" bordercolor="#D2D200" height="1" width="268"> <font face="Verdana" size="1">Total Students (Pre-primary)</font></td> 
+           <td style="font-size: 10pt" bordercolor="#D2D200" height="1" align="center" width="30"><font face="Verdana" size="1"> </font></td> 
+           <td nowrap="" bordercolor="#D2D200" height="11" width="220"><font face="Verdana" size="1">Total Teachers (Pre-primary)</font></td> 
+           <td bordercolor="#D2D200" height="11" width="79" align="center" colspan="2"><font face="Verdana" size="1"> </font></td> 
+          </tr> 
+          <tr height="19"> 
+           <td style="vertical-align: text-top; border-left-style:solid; border-left-width:1; border-right-width:1; border-top-width:1; border-bottom-width:1" bordercolor="#D2D200" height="8" width="209"> <font face="Verdana" size="1">Year of Establishment</font></td> 
+           <td align="center" style="vertical-align: text-top; font-size:10pt; border-left-width:1; border-right-style:solid; border-right-width:1; border-top-width:1; border-bottom-width:1" bordercolor="#D2D200" height="8" width="103"><font face="Verdana" size="1"> 1950 </font></td> 
+           <td bordercolor="#D2D200" height="2" width="268"> <font face="Verdana" size="1">Year of recognition</font></td> 
+           <td align="center" style="font-size: 10pt" bordercolor="#D2D200" height="2" width="30"><font face="Verdana" size="1"> 1950</font></td> 
+           <td style="vertical-align: text-top" bordercolor="#D2D200" height="9" width="220"> <font face="Verdana" size="1">Year of Upgradation from Pri. to U.Pri.</font></td> 
+           <td bordercolor="#D2D200" height="9" align="center" width="79" colspan="2"><font face="Verdana" size="1"> </font></td> 
+          </tr> 
+          <tr height="19"> 
+           <td bordercolor="#D2D200" height="1" width="209" style="border-left-style: solid; border-left-width: 1; border-right-width: 1; border-top-width: 1; border-bottom-width: 1"><font face="Verdana" size="1">Management</font></td> 
+           <td align="center" bordercolor="#D2D200" height="1" width="103" style="border-left-width: 1; border-right-style: solid; border-right-width: 1; border-top-width: 1; border-bottom-width: 1"><font face="Verdana" size="1"> Local Body </font></td> 
+           <td bordercolor="#D2D200" height="2" width="268"><font face="Verdana" size="1"> Academic Inspections</font></td> 
+           <td align="center" style="font-size: 10pt" bordercolor="#D2D200" height="2" width="30"><font face="Verdana" size="1"> 1</font></td> 
+           <td bordercolor="#D2D200" height="11" width="220"><font face="Verdana" size="1"><b>School Funds (In Rs.)</b></font></td> 
+           <td bordercolor="#D2D200" height="10" width="41" align="center"> <b><font size="1" face="Verdana">Recd.</font></b></td> 
+           <td bordercolor="#D2D200" height="10" width="38" align="center"> <b><font size="1" face="Verdana">Expd.</font></b></td> 
+          </tr> 
+          <tr height="19"> 
+           <td bordercolor="#D2D200" height="4" width="209" style="border-left-style: solid; border-left-width: 1; border-right-width: 1; border-top-width: 1; border-bottom-width: 1"><font size="1" face="Verdana">Type of School</font></td> 
+           <td align="center" style="font-size: 10pt; border-left-width:1; border-right-style:solid; border-right-width:1; border-top-width:1; border-bottom-width:1" bordercolor="#D2D200" height="1" width="103"><font face="Verdana" size="1"> Co-Educational </font></td> 
+           <td bordercolor="#D2D200" height="2" width="268"><font face="Verdana" size="1"> Shift School</font></td> 
+           <td align="center" style="font-size: 10pt" bordercolor="#D2D200" height="2" width="30"><font face="Verdana" size="1"> No </font></td> 
+           <td style="vertical-align: text-top" bordercolor="#D2D200" height="9" width="220"> <font face="Verdana" size="1">Teaching Learning Material fund</font></td> 
+           <td bordercolor="#D2D200" height="9" align="center" width="41"><font face="Verdana" size="1"> 3000</font></td> 
+           <td bordercolor="#D2D200" height="9" align="center" width="38"><font face="Verdana" size="1"> 3000</font></td> 
+          </tr> 
+          <tr height="19"> 
+           <td bordercolor="#D2D200" height="8" width="209" style="border-left-style: solid; border-left-width: 1; border-right-width: 1; border-top-width: 1; border-bottom-width: 1"><font face="Verdana" size="1">Special School for CWSN</font></td> 
+           <td align="center" bordercolor="#D2D200" height="8" width="103" style="border-left-width: 1; border-right-style: solid; border-right-width: 1; border-top-width: 1; border-bottom-width: 1"><font size="1" face="Verdana"> No </font></td> 
+           <td bordercolor="#D2D200" height="3" width="268"><font face="Verdana" size="1"> No.of visits by Resource teacher for CWSN</font></td> 
+           <td align="center" style="font-size: 10pt" bordercolor="#D2D200" height="3" width="30"><font face="Verdana" size="1"> 0</font></td> 
+           <td bordercolor="#D2D200" height="1" width="220"><font face="Verdana" size="1">School Development Fund</font></td> 
+           <td bordercolor="#D2D200" height="1" align="center" width="41"><font face="Verdana" size="1">5000</font></td> 
+           <td bordercolor="#D2D200" height="1" align="center" width="38"><font face="Verdana" size="1"> 5000</font></td> 
+          </tr> 
+          <tr height="19"> 
+           <td bordercolor="#D2D200" height="1" width="209" style="border-left-style: solid; border-left-width: 1; border-right-width: 1; border-top-width: 1; border-bottom-width: 1"><font size="1" face="Verdana"> No. of Visits by BRC Coordinator</font></td> 
+           <td align="center" style="font-size: 10pt; border-left-width:1; border-right-style:solid; border-right-width:1; border-top-width:1; border-bottom-width:1" bordercolor="#D2D200" height="1" width="103"><font face="Verdana" size="1">10</font></td> 
+           <td bordercolor="#D2D200" height="2" width="268"><font face="Verdana" size="1"> No. of Visits by CRC Coordinator</font></td> 
+           <td align="center" style="font-size: 10pt" bordercolor="#D2D200" height="2" width="30"><font face="Verdana" size="1"> 12</font></td> 
+           <td bordercolor="#D2D200" height="8" width="220"><font face="Verdana" size="1">Collection from Students</font></td> 
+           <td bordercolor="#D2D200" height="8" align="center" width="41"><font face="Verdana" size="1"> 0</font></td> 
+           <td bordercolor="#D2D200" height="8" align="center" width="38"><font face="Verdana" size="1"> 0</font></td> 
+          </tr> 
+         </tbody>
+        </table> 
+        <table border="1" cellspacing="0" width="909" cellpadding="0" style="border-collapse: collapse" height="1" bordercolor="#C0C0C0"> 
+         <tbody>
+          <tr height="13"> 
+           <td width="907" bgcolor="#990033" height="1"> <font face="Verdana" size="1" color="#FFFFFF"><b> <span style="" #800000"="">Staff Category (Primary &amp; Upper Primary only)</span></b></font></td> 
+          </tr> 
+          <tr height="15"> 
+           <td width="907" height="1" bordercolordark="#D2D200" bordercolorlight="#D2D200"> 
+            <table border="1" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#C0C0C0" width="100%" height="1"> 
+             <tbody>
+              <tr> 
+               <td nowrap="" bordercolor="#D2D200" height="10" width="220"><b> <font face="Verdana" size="1">Teaching Staff </font></b></td> 
+               <td bordercolor="#D2D200" height="10" width="41" align="center"> <b><font face="Verdana" size="1">Pri.</font></b></td> 
+               <td bordercolor="#D2D200" height="10" width="38" align="center"> <b><font face="Verdana" size="1">U.Pri.</font></b></td> 
+               <td width="34%" height="1" bordercolor="#D2D200" colspan="3"> <font size="1" face="Verdana">Teacher(s) Male</font></td> 
+               <td width="4%" height="1" bordercolor="#D2D200"> <p align="center"><font size="1" face="Verdana">1</font></p></td> 
+               <td width="26%" height="1" bordercolor="#D2D200"> <font size="1" face="Verdana">Teacher(s) Female</font></td> 
+               <td width="4%" height="1" bordercolor="#D2D200" align="center"><font face="Verdana" size="1">5</font></td> 
+              </tr> 
+              <tr> 
+               <td style="vertical-align: text-top" bordercolor="#D2D200" height="9" width="220"> <font face="Verdana" size="1">Sanctioned</font></td> 
+               <td bordercolor="#D2D200" height="9" align="center" width="41"><font face="Verdana" size="1"> 0</font></td> 
+               <td bordercolor="#D2D200" height="9" align="center" width="38"><font face="Verdana" size="1"> 0</font></td> 
+               <td width="34%" height="1" bordercolor="#D2D200" colspan="3"> <font face="Verdana" size="1">Part-time instructor (Upper Primary only)</font></td> 
+               <td width="4%" height="1" bordercolor="#D2D200"> <p align="center"><font size="1" face="Verdana">0</font></p></td> 
+               <td width="26%" height="1" bordercolor="#D2D200"> <font size="1" face="Verdana">Non-teaching Staff</font></td> 
+               <td width="4%" height="1" bordercolor="#D2D200" align="center"><font face="Verdana" size="1">0</font></td> 
+              </tr> 
+              <tr> 
+               <td bordercolor="#D2D200" height="1" width="220"> <font size="1" face="Verdana">In Position</font></td> 
+               <td bordercolor="#D2D200" height="1" align="center" width="41"><font face="Verdana" size="1">6</font></td> 
+               <td bordercolor="#D2D200" height="1" align="center" width="38"><font face="Verdana" size="1"> 0</font></td> 
+               <td width="34%" height="1" bordercolor="#D2D200" colspan="3"> <font face="Verdana" size="1">Teachers Involved in Non-teaching assignments</font></td> 
+               <td width="4%" height="1" bordercolor="#D2D200"> <p align="center"><font size="1" face="Verdana">0</font></p></td> 
+               <td width="26%" height="1" bordercolor="#D2D200"> <font size="1" face="Verdana">Head Master/Head Teacher</font></td> 
+               <td width="4%" height="1" bordercolor="#D2D200"> <p align="center"><font size="1" face="Verdana"> No </font></p></td> 
+              </tr> 
+              <tr> 
+               <td bordercolor="#D2D200" height="8" width="220"><font face="Verdana" size="1"> Contract Teachers</font></td> 
+               <td bordercolor="#D2D200" height="8" align="center" width="41"><font face="Verdana" size="1"> 0</font></td> 
+               <td bordercolor="#D2D200" height="8" align="center" width="38"><font face="Verdana" size="1"> 0</font></td> 
+               <td width="34%" height="1" bordercolor="#D2D200" colspan="3"> <font size="1" face="Verdana">Avg. working days spent on Non-tch assignments</font></td> 
+               <td width="4%" height="1" bordercolor="#D2D200" align="center"><font face="Verdana" size="1"> 0 </font></td> 
+               <td width="26%" height="1" bordercolor="#D2D200"> <font size="1" face="Verdana">Teachers Received in service Training</font></td> 
+               <td width="4%" height="1" bordercolor="#D2D200" align="center"> <font face="Verdana" size="1"> 5 </font> </td> 
+              </tr> 
+              <tr> 
+               <td bordercolor="#D2D200" height="8" width="220"> <font size="1" face="Verdana">Graduate &amp; Above</font></td> 
+               <td bordercolor="#D2D200" height="8" align="center" width="79" colspan="2"><font face="Verdana" size="1"> 6</font></td> 
+               <td width="34%" height="1" bordercolor="#D2D200" colspan="3"> <font size="1" face="Verdana">Teachers with Professional Qualification</font></td> 
+               <td width="4%" height="1" bordercolor="#D2D200" align="center"><font face="Verdana" size="1"> 6 </font></td> 
+               <td width="26%" height="1" bordercolor="#D2D200"> <font face="Verdana" size="1">Teachers Aged above 55</font></td> 
+               <td width="4%" height="1" bordercolor="#D2D200" align="center"><font face="Verdana" size="1"> </font></td> 
+              </tr> 
+             </tbody>
+            </table> </td> 
+          </tr> 
+         </tbody>
+        </table> 
+        <table border="1" cellspacing="0" width="910" cellpadding="0" style="border-collapse: collapse" height="1"> 
+         <tbody>
+          <tr height="13"> 
+           <td width="832" colspan="10" bgcolor="#990033" height="12"><b> <font size="1" color="#FFFFFF" face="Verdana">School Building, Equipment &amp; Facilities </font></b></td> 
+          </tr> 
+          <tr height="19"> 
+           <td width="202" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="1" colspan="2"> <b> <font face="Verdana" size="1">Number of Building Blocks</font></b></td> 
+           <td width="84" style="font-size: 10pt" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="1"> <b> <font face="Verdana" size="1">Pucca</font></b></td> 
+           <td width="85" bordercolorlight="#D2D200" bordercolordark="#D2D200" align="center" height="1"><font face="Verdana" size="1">3</font></td> 
+           <td width="135" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="1"> <b> <font size="1" face="Verdana">Partially Pucca</font></b></td> 
+           <td style="font-size: 10pt" bordercolorlight="#D2D200" bordercolordark="#D2D200" align="center" height="1" width="76"><font face="Verdana" size="1">1</font></td> 
+           <td width="63" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="1"> <b> <font size="1" face="Verdana">Kuccha</font></b></td> 
+           <td width="52" bordercolorlight="#D2D200" bordercolordark="#D2D200" align="center" height="1"><font face="Verdana" size="1">0</font></td> 
+           <td width="75" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="1"> <b> <font size="1" face="Verdana">Tent</font></b></td> 
+           <td bordercolorlight="#D2D200" bordercolordark="#D2D200" align="center" height="1" width="62"><font face="Verdana" size="1">0</font></td> 
+          </tr> 
+          <tr> 
+           <td width="202" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="5" colspan="2"> <font face="Verdana" size="1">Classrooms Require Major Repairs</font></td> 
+           <td valign="top" bordercolorlight="#D2D200" bordercolordark="#D2D200" align="center" height="5" width="84"><font face="Verdana" size="1">0</font></td> 
+           <td width="221" colspan="2" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="5"> <font face="Verdana" size="1"># of </font> <font size="1" face="Verdana" height="19">Classrooms for Teaching </font></td> 
+           <td style="font-size: 10pt" bordercolorlight="#D2D200" bordercolordark="#D2D200" align="center" height="5" width="76"><font face="Verdana" size="1"> 1</font></td> 
+           <td width="192" colspan="3" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="1"> <font size="1" face="Verdana">Number of Other Rooms</font></td> 
+           <td bordercolorlight="#D2D200" bordercolordark="#D2D200" align="center" height="1" width="62"><font face="Verdana" size="1">1</font></td> 
+          </tr> 
+          <tr height="19"> 
+           <td width="202" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="1" colspan="2"> <font face="Verdana" size="1">Classrooms Require Minor Repairs</font></td> 
+           <td valign="top" style="font-size: 10pt" bordercolorlight="#D2D200" bordercolordark="#D2D200" align="center" height="1" width="84"><font face="Verdana" size="1">0</font></td> 
+           <td width="221" colspan="2" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="1"> <font face="Verdana" size="1">Status of School Building</font></td> 
+           <td valign="top" style="font-size: 10pt" bordercolorlight="#D2D200" bordercolordark="#D2D200" align="center" height="1" width="76"><font face="Verdana" size="1"> Government </font></td> 
+           <td width="192" colspan="3" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="1"> <font face="Verdana" size="1">Separate Room for Head Master</font></td> 
+           <td valign="top" bordercolorlight="#D2D200" bordercolordark="#D2D200" align="center" height="1" width="62"><font face="Verdana" size="1"> Yes </font></td> 
+          </tr> 
+          <tr height="19"> 
+           <td width="202" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="2" colspan="2"> <font face="Verdana" size="1"># of Classrooms in Good Condition</font></td> 
+           <td colspan="1" bordercolorlight="#D2D200" bordercolordark="#D2D200" align="center" height="2" width="84"><font face="Verdana" size="1">1 </font></td> 
+           <td width="221" colspan="2" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="2"> <font size="1" face="Verdana">Playground</font></td> 
+           <td align="center" colspan="1" style="font-size: 10pt" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="2" width="76"><font face="Verdana" size="1"> Yes </font></td> 
+           <td width="192" colspan="3" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="2" align="center"> <p align="left"> <font size="1" face="Verdana">Land available for playground</font></p></td> 
+           <td align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="2" width="62"><font face="Verdana" size="1"> NA </font></td> 
+          </tr> 
+          <tr height="19"> 
+           <td width="202" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="2" colspan="2"> <font face="Verdana" size="1">Ramp for Disabled Children Needed</font></td> 
+           <td colspan="1" bordercolorlight="#D2D200" bordercolordark="#D2D200" align="center" height="2" width="84"><font face="Verdana" size="1"> No</font></td> 
+           <td width="221" colspan="2" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="2"> <font size="1" face="Verdana">Ramps for Disabled Children Available</font></td> 
+           <td colspan="1" style="font-size: 10pt" bordercolorlight="#D2D200" bordercolordark="#D2D200" align="center" height="2" width="76"><font size="1" face="Verdana"> NA </font></td> 
+           <td width="192" colspan="3" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="2"> <font face="Verdana" size="1">Hand rails for Ramp</font></td> 
+           <td align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="2" width="62"><font face="Verdana" size="1"> NA </font></td> 
+          </tr> 
+          <tr height="19"> 
+           <td width="202" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="2" colspan="2"> <font face="Verdana" size="1">Medical check-up of Students</font></td> 
+           <td align="center" colspan="1" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="2" width="84"><font face="Verdana" size="1">Yes</font></td> 
+           <td width="221" colspan="2" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="2"> <font size="1" face="Verdana">Electricity</font></td> 
+           <td colspan="1" style="font-size: 10pt" bordercolorlight="#D2D200" bordercolordark="#D2D200" align="center" height="2" width="76"><font face="Verdana" size="1"> Yes </font></td> 
+           <td width="192" colspan="3" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="2"> <font face="Verdana" size="1">Computer Aided Learning Lab</font></td> 
+           <td align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="2" width="62"><font size="1" face="Verdana"> No </font></td> 
+          </tr> 
+          <tr height="19"> 
+           <td width="202" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="1" colspan="2"> <font face="Verdana" size="1">Furniture for Students</font></td> 
+           <td colspan="1" bordercolorlight="#D2D200" bordercolordark="#D2D200" align="center" height="1" width="84"><font face="Verdana" size="1"> No </font></td> 
+           <td width="221" colspan="2" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="1"> <font size="1" face="Verdana"># of Computers Available</font></td> 
+           <td align="center" colspan="1" style="font-size: 10pt" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="1" width="76"><font face="Verdana" size="1">0</font></td> 
+           <td width="192" colspan="3" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="1"> <font face="Verdana" size="1"># of Computers Functional</font></td> 
+           <td align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="1" width="62"><font face="Verdana" size="1"> 0 </font></td> 
+          </tr> 
+          <tr> 
+           <td width="116" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="1"> <b><font face="Verdana" size="1">Toilets</font></b></td> 
+           <td width="86" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="1"> <p align="center"> <b><font face="Verdana" size="1">Boys</font></b></p></td> 
+           <td colspan="1" bordercolorlight="#D2D200" bordercolordark="#D2D200" align="center" height="1" width="84"><font face="Verdana" size="1"> <b>Girls</b></font></td> 
+           <td width="221" colspan="2" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="1"> <font size="1" face="Verdana">Library</font></td> 
+           <td align="center" colspan="1" style="font-size: 10pt" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="1" width="76"> <font size="1" face="Verdana"> Yes </font></td> 
+           <td width="192" colspan="3" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="1"> <font face="Verdana" size="1"># of Books in School Library</font></td> 
+           <td align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="1" width="62"><font face="Verdana" size="1">397 </font></td> 
+          </tr> 
+          <tr> 
+           <td width="101" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="1"> <font face="Verdana" size="1">Total</font></td> 
+           <td width="101" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="1" align="center"> <font face="Verdana" size="1"> 0 </font> </td> 
+           <td colspan="1" bordercolorlight="#D2D200" bordercolordark="#D2D200" align="center" height="1" width="84"><font face="Verdana" size="1"> 0 </font></td> 
+           <td width="221" colspan="2" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="1"> <font size="1" face="Verdana">Drinking Water Facility</font></td> 
+           <td align="center" colspan="1" style="font-size: 10pt" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="1" width="76"><font face="Verdana" size="1"> None </font></td> 
+           <td align="center" colspan="3" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="1" width="192"> <p align="left"> <font face="Verdana" size="1">Drinking Water Functional</font></p></td> 
+           <td align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="1" width="62"><font face="Verdana" size="1"> NA </font></td> 
+          </tr> 
+          <tr> 
+           <td width="101" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="3"> <font face="Verdana" size="1">Functional</font></td> 
+           <td width="101" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="3" align="center"> <font face="Verdana" size="1"> 0 </font></td> 
+           <td colspan="1" bordercolorlight="#D2D200" bordercolordark="#D2D200" align="center" height="3" width="84"> <font face="Verdana" size="1"> 0 </font></td> 
+           <td width="221" colspan="2" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="1"> <font face="Verdana" size="1">Measured campus plan prepared</font></td> 
+           <td align="center" colspan="1" style="font-size: 10pt" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="1" width="76"><font face="Verdana" size="1"> No</font></td> 
+           <td align="center" colspan="3" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="1" width="192"> <p align="left"> <font face="Verdana" size="1">Boundary Wall</font></p></td> 
+           <td align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="1" width="62"><font face="Verdana" size="1"> Pucca </font></td> 
+          </tr> 
+         </tbody>
+        </table> 
+        <table border="1" cellpadding="0" cellspacing="0" rowpadding="0" rowspacing="0" width="910" style="border-collapse: collapse" height="71" bordercolor="#C0C0C0"> 
+         <tbody>
+          <tr height="13"> 
+           <td colspan="16" width="710" bgcolor="#990033" height="7"><b> <font size="1" color="#FFFFFF" face="Verdana">Enrolment &amp; Repeaters</font></b></td> 
+          </tr> 
+          <tr> 
+           <td width="56" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="1"> <font size="1" face="Verdana">Enrolment</font></td> 
+           <td width="47" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="1"> <font face="Verdana" size="1">2011-12</font></td> 
+           <td colspan="3" width="130" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="1"> <font size="1" face="Verdana">Total </font></td> 
+           <td colspan="2" width="86" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="1"> <font size="1" face="Verdana">SC </font></td> 
+           <td colspan="2" width="95" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="1"> <font size="1" face="Verdana">ST </font></td> 
+           <td colspan="2" width="95" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="1"> <font size="1" face="Verdana">OBC </font></td> 
+           <td colspan="2" width="87" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="1"> <font size="1" face="Verdana">Repeaters</font></td> 
+           <td width="48" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="10" rowspan="2"> <font face="Verdana" size="1">CWSN</font></td> 
+           <td colspan="2" width="72" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="1"> <p align="right"><font face="Verdana" size="1">Muslim </font></p></td> 
+          </tr> 
+          <tr> 
+           <td width="60" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="4"> <font size="1" face="Verdana">Grade</font></td> 
+           <td width="68" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="4"> <font size="1" face="Verdana">All</font></td> 
+           <td width="64" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="4"> <font size="1" face="Verdana">All</font></td> 
+           <td width="60" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="4"> <font size="1" face="Verdana">Boys</font></td> 
+           <td width="58" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="4"> <font size="1" face="Verdana">Girls</font></td> 
+           <td width="59" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="4"> <font size="1" face="Verdana">Boys</font></td> 
+           <td width="54" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="4"> <font size="1" face="Verdana">Girls</font></td> 
+           <td width="50" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="4"> <font size="1" face="Verdana">Boys</font></td> 
+           <td width="55" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="4"> <font size="1" face="Verdana">Girls</font></td> 
+           <td width="59" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="4"> <font size="1" face="Verdana">Boys</font></td> 
+           <td width="54" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="4"> <font size="1" face="Verdana">Girls</font></td> 
+           <td width="53" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="4"> <font face="Verdana" size="1">Boys</font></td> 
+           <td width="55" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="4"> <font face="Verdana" size="1">Girls</font></td> 
+           <td width="53" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="4"> <font face="Verdana" size="1">Boys</font></td> 
+           <td width="48" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="4"> <font face="Verdana" size="1">Girls</font></td> 
+          </tr> 
+          <tr height="17"> 
+           <td width="60" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"> <font size="1" face="Verdana">I</font></td> 
+           <td width="68" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"><font face="Verdana" size="1"> 35</font></td> 
+           <td width="64" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"><font face="Verdana" size="1"> 33 </font></td> 
+           <td width="60" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"><font face="Verdana" size="1">18</font></td> 
+           <td width="58" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"><font face="Verdana" size="1">15</font></td> 
+           <td width="59" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"><font face="Verdana" size="1">0</font></td> 
+           <td width="54" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"><font face="Verdana" size="1">0</font></td> 
+           <td width="50" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"><font face="Verdana" size="1">0</font></td> 
+           <td width="55" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"><font face="Verdana" size="1">0</font></td> 
+           <td width="59" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"><font face="Verdana" size="1">7</font></td> 
+           <td width="54" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"><font face="Verdana" size="1">3</font></td> 
+           <td width="53" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"><font face="Verdana" size="1">0</font></td> 
+           <td width="55" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"><font face="Verdana" size="1">0</font></td> 
+           <td width="42" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"><font face="Verdana" size="1">0</font></td> 
+           <td width="53" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"><font face="Verdana" size="1">1</font></td> 
+           <td width="48" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"><font face="Verdana" size="1">1</font></td> 
+          </tr> 
+          <tr height="17"> 
+           <td width="60" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"> <font size="1" face="Verdana">II</font></td> 
+           <td width="68" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"><font face="Verdana" size="1"> 38</font></td> 
+           <td width="64" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"><font face="Verdana" size="1">28 </font></td> 
+           <td width="60" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"><font face="Verdana" size="1">11</font></td> 
+           <td width="58" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"><font face="Verdana" size="1">17</font></td> 
+           <td width="59" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"><font face="Verdana" size="1">0</font></td> 
+           <td width="54" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"><font face="Verdana" size="1">0</font></td> 
+           <td width="50" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"><font face="Verdana" size="1">0</font></td> 
+           <td width="55" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"><font face="Verdana" size="1">0</font></td> 
+           <td width="59" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"><font face="Verdana" size="1">4</font></td> 
+           <td width="54" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"><font face="Verdana" size="1">4</font></td> 
+           <td width="53" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"><font face="Verdana" size="1">0</font></td> 
+           <td width="55" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"><font face="Verdana" size="1">0</font></td> 
+           <td width="42" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"><font face="Verdana" size="1">1</font></td> 
+           <td width="53" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"><font face="Verdana" size="1">0</font></td> 
+           <td width="48" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"><font face="Verdana" size="1">1</font></td> 
+          </tr> 
+          <tr height="17"> 
+           <td width="60" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"> <font size="1" face="Verdana">III</font></td> 
+           <td width="68" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"><font face="Verdana" size="1"> 40 </font></td> 
+           <td width="64" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"><font face="Verdana" size="1"> 30 </font></td> 
+           <td width="60" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"><font face="Verdana" size="1">15</font></td> 
+           <td width="58" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"><font face="Verdana" size="1">15</font></td> 
+           <td width="59" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"><font face="Verdana" size="1">0</font></td> 
+           <td width="54" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"><font face="Verdana" size="1">0</font></td> 
+           <td width="50" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"><font face="Verdana" size="1">0</font></td> 
+           <td width="55" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"><font face="Verdana" size="1">0</font></td> 
+           <td width="59" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"><font face="Verdana" size="1">4</font></td> 
+           <td width="54" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"><font face="Verdana" size="1">4</font></td> 
+           <td width="53" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"><font face="Verdana" size="1">0</font></td> 
+           <td width="55" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"><font face="Verdana" size="1">0</font></td> 
+           <td width="42" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"><font face="Verdana" size="1">1</font></td> 
+           <td width="53" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"><font face="Verdana" size="1">3</font></td> 
+           <td width="48" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"><font face="Verdana" size="1">2</font></td> 
+          </tr> 
+          <tr height="17"> 
+           <td width="60" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="4"> <font size="1" face="Verdana">IV</font></td> 
+           <td width="68" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="4"><font face="Verdana" size="1"> 43</font></td> 
+           <td width="64" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="4"><font face="Verdana" size="1"> 47 </font></td> 
+           <td width="60" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="4"><font face="Verdana" size="1">22</font></td> 
+           <td width="58" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="4"><font face="Verdana" size="1">25</font></td> 
+           <td width="59" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="4"><font face="Verdana" size="1">0</font></td> 
+           <td width="54" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="4"><font face="Verdana" size="1">0</font></td> 
+           <td width="50" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="4"><font face="Verdana" size="1">0</font></td> 
+           <td width="55" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="4"><font face="Verdana" size="1">0</font></td> 
+           <td width="59" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="4"><font face="Verdana" size="1">13</font></td> 
+           <td width="54" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="4"><font face="Verdana" size="1">9</font></td> 
+           <td width="53" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="4"><font face="Verdana" size="1">0</font></td> 
+           <td width="55" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="4"><font face="Verdana" size="1">0</font></td> 
+           <td width="42" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="4"><font face="Verdana" size="1">0</font></td> 
+           <td width="53" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="4"><font face="Verdana" size="1">1</font></td> 
+           <td width="48" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="4"><font face="Verdana" size="1">3</font></td> 
+          </tr> 
+          <tr height="17"> 
+           <td width="60" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"> <font size="1" face="Verdana">V</font></td> 
+           <td width="68" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"><font face="Verdana" size="1"> 36</font></td> 
+           <td width="64" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"><font face="Verdana" size="1"> 45 </font></td> 
+           <td width="60" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"><font face="Verdana" size="1">22</font></td> 
+           <td width="58" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"><font face="Verdana" size="1">23</font></td> 
+           <td width="59" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"><font face="Verdana" size="1">0</font></td> 
+           <td width="54" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"><font face="Verdana" size="1">0</font></td> 
+           <td width="50" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"><font face="Verdana" size="1">0</font></td> 
+           <td width="55" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"><font face="Verdana" size="1">0</font></td> 
+           <td width="59" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"><font face="Verdana" size="1">5</font></td> 
+           <td width="54" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"><font face="Verdana" size="1">11</font></td> 
+           <td width="53" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"><font face="Verdana" size="1">0</font></td> 
+           <td width="55" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"><font face="Verdana" size="1">0</font></td> 
+           <td width="42" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"><font face="Verdana" size="1">0</font></td> 
+           <td width="53" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"><font face="Verdana" size="1">3</font></td> 
+           <td width="48" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"><font face="Verdana" size="1">0</font></td> 
+          </tr> 
+          <tr height="17"> 
+           <td width="60" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"> <font size="1" face="Verdana">VI</font></td> 
+           <td width="68" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"><font face="Verdana" size="1"> 0 </font></td> 
+           <td width="64" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"><font face="Verdana" size="1"> 0 </font></td> 
+           <td width="60" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"><font face="Verdana" size="1">0</font></td> 
+           <td width="58" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"><font face="Verdana" size="1">0</font></td> 
+           <td width="59" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"><font face="Verdana" size="1">0</font></td> 
+           <td width="54" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"><font face="Verdana" size="1">0</font></td> 
+           <td width="50" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"><font face="Verdana" size="1">0</font></td> 
+           <td width="55" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"><font face="Verdana" size="1">0</font></td> 
+           <td width="59" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"><font face="Verdana" size="1">0</font></td> 
+           <td width="54" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"><font face="Verdana" size="1">0</font></td> 
+           <td width="53" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"><font face="Verdana" size="1">0</font></td> 
+           <td width="55" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"><font face="Verdana" size="1">0</font></td> 
+           <td width="42" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"><font face="Verdana" size="1">0</font></td> 
+           <td width="53" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"><font face="Verdana" size="1">0</font></td> 
+           <td width="48" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"><font face="Verdana" size="1">0</font></td> 
+          </tr> 
+          <tr height="17"> 
+           <td width="60" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"> <font size="1" face="Verdana">VII</font></td> 
+           <td width="68" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"><font face="Verdana" size="1"> 0 </font></td> 
+           <td width="64" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"> <font face="Verdana" size="1"> 0 </font></td> 
+           <td width="60" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"><font face="Verdana" size="1">0</font></td> 
+           <td width="58" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"><font face="Verdana" size="1">0</font></td> 
+           <td width="59" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"><font face="Verdana" size="1">0</font></td> 
+           <td width="54" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"><font face="Verdana" size="1">0</font></td> 
+           <td width="50" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"><font face="Verdana" size="1">0</font></td> 
+           <td width="55" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"><font face="Verdana" size="1">0</font></td> 
+           <td width="59" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"><font face="Verdana" size="1">0</font></td> 
+           <td width="54" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"><font face="Verdana" size="1">0</font></td> 
+           <td width="53" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"><font face="Verdana" size="1">0</font></td> 
+           <td width="55" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"><font face="Verdana" size="1">0</font></td> 
+           <td width="42" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"><font face="Verdana" size="1">0</font></td> 
+           <td width="53" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"><font face="Verdana" size="1">0</font></td> 
+           <td width="48" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="6"><font face="Verdana" size="1">0</font></td> 
+          </tr> 
+          <tr height="17"> 
+           <td width="60" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="2"> <font size="1" face="Verdana">VIII</font></td> 
+           <td width="68" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="2"><font face="Verdana" size="1"> 0 </font></td> 
+           <td width="64" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="2"><font face="Verdana" size="1"> 0 </font></td> 
+           <td width="60" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="2"><font face="Verdana" size="1">0</font></td> 
+           <td width="58" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="2"><font face="Verdana" size="1">0</font></td> 
+           <td width="59" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="2"><font face="Verdana" size="1">0</font></td> 
+           <td width="54" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="2"><font face="Verdana" size="1">0</font></td> 
+           <td width="50" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="2"><font face="Verdana" size="1">0</font></td> 
+           <td width="55" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="2"><font face="Verdana" size="1">0</font></td> 
+           <td width="59" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="2"><font face="Verdana" size="1">0</font></td> 
+           <td width="54" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="2"><font face="Verdana" size="1">0</font></td> 
+           <td width="53" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="2"><font face="Verdana" size="1">0</font></td> 
+           <td width="55" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="2"><font face="Verdana" size="1">0</font></td> 
+           <td width="42" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="2"><font face="Verdana" size="1">0</font></td> 
+           <td width="53" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="2"><font face="Verdana" size="1">0</font></td> 
+           <td width="48" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="2"><font face="Verdana" size="1">0</font></td> 
+          </tr> 
+          <tr height="17"> 
+           <td width="60" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="12"> <font size="1" face="Verdana">Total</font></td> 
+           <td width="68" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="12"><font face="Verdana" size="1"> 192 </font></td> 
+           <td width="64" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="12"><font face="Verdana" size="1"> 183 </font></td> 
+           <td width="60" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="12"><font face="Verdana" size="1">88</font></td> 
+           <td width="58" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="12"><font face="Verdana" size="1">95</font></td> 
+           <td width="59" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="12"><font face="Verdana" size="1">0</font></td> 
+           <td width="54" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="12"><font face="Verdana" size="1">0</font></td> 
+           <td width="50" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="12"><font face="Verdana" size="1">0</font></td> 
+           <td width="55" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="12"><font face="Verdana" size="1">0</font></td> 
+           <td width="59" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="12"><font face="Verdana" size="1">33</font></td> 
+           <td width="54" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="12"><font face="Verdana" size="1">31</font></td> 
+           <td width="53" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="12"><font face="Verdana" size="1">0</font></td> 
+           <td width="55" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="12"><font face="Verdana" size="1">0</font></td> 
+           <td width="42" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="12"><font face="Verdana" size="1">2</font></td> 
+           <td width="53" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="12"><font face="Verdana" size="1">8</font></td> 
+           <td width="48" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="12"><font face="Verdana" size="1">7 </font></td> 
+          </tr> 
+         </tbody>
+        </table> 
+        <table border="1" cellpadding="0" cellspacing="0" rowpadding="0" rowspacing="0" width="768" style="border-collapse: collapse" height="78" bordercolor="#C0C0C0"> 
+         <tbody>
+          <tr> 
+           <td width="797" align="center" height="1"> 
+            <table border="1" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#C0C0C0" width="910" height="75"> 
+             <tbody>
+              <tr> 
+               <td width="789" align="center" colspan="21" bgcolor="#990033" height="12"> <p align="left"> <font size="1" color="#FFFFFF" face="Verdana"><b>Incentives (Previous Academic Year ) </b></font></p></td> 
+              </tr> 
+              <tr> 
+               <td width="105" rowspan="3" bordercolor="#D2D200" height="35"></td> 
+               <td width="334" colspan="10" align="center" bordercolor="#D2D200" height="4"><b> <font size="1" face="Verdana">Primary only</font></b></td> 
+               <td width="346" colspan="10" align="center" bordercolor="#D2D200" height="4"><b> <font size="1" face="Verdana">Upper Primary only</font></b></td> 
+              </tr> 
+              <tr> 
+               <td width="58" colspan="2" align="center" bordercolor="#D2D200" height="17"> <font face="Verdana" size="1">General</font></td> 
+               <td width="69" colspan="2" align="center" bordercolor="#D2D200" height="17"> <font face="Verdana" size="1">SC Students</font></td> 
+               <td width="68" colspan="2" align="center" bordercolor="#D2D200" height="17"> <font face="Verdana" size="1">ST Students</font></td> 
+               <td width="70" colspan="2" align="center" bordercolor="#D2D200" height="17"> <font face="Verdana" size="1">OBC Students</font></td> 
+               <td width="69" colspan="2" align="center" bordercolor="#D2D200" height="17"> <font face="Verdana" size="1">Muslim Minority</font></td> 
+               <td width="69" colspan="2" align="center" bordercolor="#D2D200" height="17"> <font face="Verdana" size="1">General</font></td> 
+               <td width="69" colspan="2" align="center" bordercolor="#D2D200" height="17"> <font face="Verdana" size="1">SC Students</font></td> 
+               <td width="69" colspan="2" align="center" bordercolor="#D2D200" height="17"> <font face="Verdana" size="1">ST Students</font></td> 
+               <td width="70" colspan="2" align="center" bordercolor="#D2D200" height="17"> <font face="Verdana" size="1">OBC Students</font></td> 
+               <td width="65" colspan="2" align="center" bordercolor="#D2D200" height="17"> <font face="Verdana" size="1">Muslim Minority</font></td> 
+              </tr> 
+              <tr> 
+               <td width="27" align="center" bordercolor="#D2D200" height="12"> <font size="1" face="Verdana">Boys</font></td> 
+               <td width="35" align="center" bordercolor="#D2D200" height="12"> <font face="Verdana" size="1">Girls</font></td> 
+               <td width="35" align="center" bordercolor="#D2D200" height="12"> <font size="1" face="Verdana">Boys</font></td> 
+               <td width="35" align="center" bordercolor="#D2D200" height="12"> <font face="Verdana" size="1">Girls</font></td> 
+               <td width="35" align="center" bordercolor="#D2D200" height="12"> <font size="1" face="Verdana">Boys</font></td> 
+               <td width="34" align="center" bordercolor="#D2D200" height="12"> <font face="Verdana" size="1">Girls</font></td> 
+               <td width="36" align="center" bordercolor="#D2D200" height="12"> <font size="1" face="Verdana">Boys</font></td> 
+               <td width="35" align="center" bordercolor="#D2D200" height="12"> <font face="Verdana" size="1">Girls</font></td> 
+               <td width="35" align="center" bordercolor="#D2D200" height="12"> <font size="1" face="Verdana">Boys</font></td> 
+               <td width="35" align="center" bordercolor="#D2D200" height="12"> <font face="Verdana" size="1">Girls</font></td> 
+               <td width="35" align="center" bordercolor="#D2D200" height="12"> <font size="1" face="Verdana">Boys</font></td> 
+               <td width="35" align="center" bordercolor="#D2D200" height="12"> <font face="Verdana" size="1">Girls</font></td> 
+               <td width="35" align="center" bordercolor="#D2D200" height="12"> <font size="1" face="Verdana">Boys</font></td> 
+               <td width="35" align="center" bordercolor="#D2D200" height="12"> <font face="Verdana" size="1">Girls</font></td> 
+               <td width="35" align="center" bordercolor="#D2D200" height="12"> <font size="1" face="Verdana">Boys</font></td> 
+               <td width="35" align="center" bordercolor="#D2D200" height="12"> <font face="Verdana" size="1">Girls</font></td> 
+               <td width="35" align="center" bordercolor="#D2D200" height="12"> <font size="1" face="Verdana">Boys</font></td> 
+               <td width="36" align="center" bordercolor="#D2D200" height="12"> <font face="Verdana" size="1">Girls</font></td> 
+               <td width="36" align="center" bordercolor="#D2D200" height="12"> <font size="1" face="Verdana">Boys</font></td> 
+               <td width="29" align="center" bordercolor="#D2D200" height="12"> <font face="Verdana" size="1">Girls</font></td> 
+              </tr> 
+              <tr> 
+               <td width="105" bordercolor="#D2D200" height="1" align="left"><font face="Verdana" size="1">Textbooks</font></td> 
+               <td width="27" bordercolor="#D2D200" height="1" align="center"><font face="Verdana" size="1"> 12</font></td> 
+               <td width="35" bordercolor="#D2D200" height="1" align="center"><font face="Verdana" size="1"> 13</font></td> 
+               <td width="35" bordercolor="#D2D200" height="1" align="center"><font face="Verdana" size="1"> 35</font></td> 
+               <td width="35" bordercolor="#D2D200" height="1" align="center"><font face="Verdana" size="1"> 32</font></td> 
+               <td width="35" bordercolor="#D2D200" height="1" align="center"><font face="Verdana" size="1"> 18</font></td> 
+               <td width="34" bordercolor="#D2D200" height="1" align="center"><font face="Verdana" size="1"> 17</font></td> 
+               <td width="36" bordercolor="#D2D200" height="1" align="center"><font face="Verdana" size="1"> 35</font></td> 
+               <td width="35" bordercolor="#D2D200" height="1" align="center"><font face="Verdana" size="1"> 30</font></td> 
+               <td width="35" bordercolor="#D2D200" height="1" align="center"><font face="Verdana" size="1"> 11</font></td> 
+               <td width="35" bordercolor="#D2D200" height="1" align="center"><font face="Verdana" size="1"> 9</font></td> 
+               <td width="35" bordercolor="#D2D200" height="1" align="center"><font face="Verdana" size="1"> NA</font></td> 
+               <td width="35" bordercolor="#D2D200" height="1" align="center"><font face="Verdana" size="1"> NA</font></td> 
+               <td width="35" bordercolor="#D2D200" height="1" align="center"><font face="Verdana" size="1"> NA</font></td> 
+               <td width="35" bordercolor="#D2D200" height="1" align="center"><font face="Verdana" size="1"> NA</font></td> 
+               <td width="35" bordercolor="#D2D200" height="1" align="center"><font face="Verdana" size="1"> NA</font></td> 
+               <td width="35" bordercolor="#D2D200" height="1" align="center"><font face="Verdana" size="1"> NA</font></td> 
+               <td width="35" bordercolor="#D2D200" height="1" align="center"><font face="Verdana" size="1"> NA</font></td> 
+               <td width="36" bordercolor="#D2D200" height="1" align="center"><font face="Verdana" size="1"> NA</font></td> 
+               <td width="36" bordercolor="#D2D200" height="1" align="center"><font face="Verdana" size="1"> NA</font></td> 
+               <td width="29" bordercolor="#D2D200" height="1" align="center"><font face="Verdana" size="1"> NA</font></td> 
+              </tr> 
+              <tr> 
+               <td width="105" bordercolor="#D2D200" height="7" align="left"><font face="Verdana" size="1">Stationary</font></td> 
+               <td width="27" bordercolor="#D2D200" height="7" align="center"><font face="Verdana" size="1"> 0</font></td> 
+               <td width="35" bordercolor="#D2D200" height="7" align="center"><font face="Verdana" size="1"> 0</font></td> 
+               <td width="35" bordercolor="#D2D200" height="7" align="center"><font face="Verdana" size="1"> 0</font></td> 
+               <td width="35" bordercolor="#D2D200" height="7" align="center"><font face="Verdana" size="1"> 0</font></td> 
+               <td width="35" bordercolor="#D2D200" height="7" align="center"><font face="Verdana" size="1"> 0</font></td> 
+               <td width="34" bordercolor="#D2D200" height="7" align="center"><font face="Verdana" size="1"> 0</font></td> 
+               <td width="36" bordercolor="#D2D200" height="7" align="center"><font face="Verdana" size="1"> 0</font></td> 
+               <td width="35" bordercolor="#D2D200" height="7" align="center"><font face="Verdana" size="1"> 0</font></td> 
+               <td width="35" bordercolor="#D2D200" height="7" align="center"><font face="Verdana" size="1"> 0</font></td> 
+               <td width="35" bordercolor="#D2D200" height="7" align="center"><font face="Verdana" size="1"> 0</font></td> 
+               <td width="35" bordercolor="#D2D200" height="7" align="center"><font face="Verdana" size="1"> NA</font></td> 
+               <td width="35" bordercolor="#D2D200" height="7" align="center"><font face="Verdana" size="1"> NA</font></td> 
+               <td width="35" bordercolor="#D2D200" height="7" align="center"><font face="Verdana" size="1"> NA</font></td> 
+               <td width="35" bordercolor="#D2D200" height="7" align="center"><font face="Verdana" size="1"> NA</font></td> 
+               <td width="35" bordercolor="#D2D200" height="7" align="center"><font face="Verdana" size="1"> NA</font></td> 
+               <td width="35" bordercolor="#D2D200" height="7" align="center"><font face="Verdana" size="1"> NA</font></td> 
+               <td width="35" bordercolor="#D2D200" height="7" align="center"><font face="Verdana" size="1"> NA</font></td> 
+               <td width="36" bordercolor="#D2D200" height="7" align="center"><font face="Verdana" size="1"> NA</font></td> 
+               <td width="36" bordercolor="#D2D200" height="7" align="center"><font face="Verdana" size="1"> NA</font></td> 
+               <td width="29" bordercolor="#D2D200" height="7" align="center"><font face="Verdana" size="1"> NA</font></td> 
+              </tr> 
+              <tr> 
+               <td width="105" bordercolor="#D2D200" height="8" align="left"><font face="Verdana" size="1">Uniform</font></td> 
+               <td width="27" bordercolor="#D2D200" height="8" align="center"><font face="Verdana" size="1"> 12</font></td> 
+               <td width="35" bordercolor="#D2D200" height="8" align="center"><font face="Verdana" size="1"> 13</font></td> 
+               <td width="35" bordercolor="#D2D200" height="8" align="center"><font face="Verdana" size="1"> 35</font></td> 
+               <td width="35" bordercolor="#D2D200" height="8" align="center"><font face="Verdana" size="1"> 32</font></td> 
+               <td width="35" bordercolor="#D2D200" height="8" align="center"><font face="Verdana" size="1"> 18</font></td> 
+               <td width="34" bordercolor="#D2D200" height="8" align="center"><font face="Verdana" size="1"> 17</font></td> 
+               <td width="36" bordercolor="#D2D200" height="8" align="center"><font face="Verdana" size="1"> 35</font></td> 
+               <td width="35" bordercolor="#D2D200" height="8" align="center"><font face="Verdana" size="1"> 30</font></td> 
+               <td width="35" bordercolor="#D2D200" height="7" align="center"><font face="Verdana" size="1"> 11</font></td> 
+               <td width="35" bordercolor="#D2D200" height="7" align="center"><font face="Verdana" size="1"> 9</font></td> 
+               <td width="35" bordercolor="#D2D200" height="7" align="center"><font face="Verdana" size="1"> NA</font></td> 
+               <td width="35" bordercolor="#D2D200" height="7" align="center"><font face="Verdana" size="1"> NA</font></td> 
+               <td width="35" bordercolor="#D2D200" height="7" align="center"><font face="Verdana" size="1"> NA</font></td> 
+               <td width="35" bordercolor="#D2D200" height="7" align="center"><font face="Verdana" size="1"> NA</font></td> 
+               <td width="35" bordercolor="#D2D200" height="7" align="center"><font face="Verdana" size="1"> NA</font></td> 
+               <td width="35" bordercolor="#D2D200" height="7" align="center"><font face="Verdana" size="1"> NA</font></td> 
+               <td width="35" bordercolor="#D2D200" height="7" align="center"><font face="Verdana" size="1"> NA</font></td> 
+               <td width="36" bordercolor="#D2D200" height="7" align="center"><font face="Verdana" size="1"> NA</font></td> 
+               <td width="36" bordercolor="#D2D200" height="7" align="center"><font face="Verdana" size="1"> NA</font></td> 
+               <td width="29" bordercolor="#D2D200" height="7" align="center"><font face="Verdana" size="1"> NA</font></td> 
+              </tr> 
+              <tr> 
+               <td width="105" bordercolor="#D2D200" height="12" align="left"><font face="Verdana" size="1">Scholarship</font></td> 
+               <td width="27" bordercolor="#D2D200" height="12" align="center"><font face="Verdana" size="1"> 0</font></td> 
+               <td width="35" bordercolor="#D2D200" height="12" align="center"><font face="Verdana" size="1"> 0</font></td> 
+               <td width="35" bordercolor="#D2D200" height="12" align="center"><font face="Verdana" size="1"> 0</font></td> 
+               <td width="35" bordercolor="#D2D200" height="12" align="center"><font face="Verdana" size="1"> 0</font></td> 
+               <td width="35" bordercolor="#D2D200" height="12" align="center"><font face="Verdana" size="1"> 0</font></td> 
+               <td width="34" bordercolor="#D2D200" height="12" align="center"><font face="Verdana" size="1"> 0</font></td> 
+               <td width="36" bordercolor="#D2D200" height="12" align="center"><font face="Verdana" size="1"> 0</font></td> 
+               <td width="35" bordercolor="#D2D200" height="12" align="center"><font face="Verdana" size="1"> 0</font></td> 
+               <td width="35" bordercolor="#D2D200" height="7" align="center"><font face="Verdana" size="1"> 0</font></td> 
+               <td width="35" bordercolor="#D2D200" height="7" align="center"><font face="Verdana" size="1"> 0</font></td> 
+               <td width="35" bordercolor="#D2D200" height="7" align="center"><font face="Verdana" size="1"> NA</font></td> 
+               <td width="35" bordercolor="#D2D200" height="7" align="center"><font face="Verdana" size="1"> NA</font></td> 
+               <td width="35" bordercolor="#D2D200" height="7" align="center"><font face="Verdana" size="1"> NA</font></td> 
+               <td width="35" bordercolor="#D2D200" height="7" align="center"><font face="Verdana" size="1"> NA</font></td> 
+               <td width="35" bordercolor="#D2D200" height="7" align="center"><font face="Verdana" size="1"> NA</font></td> 
+               <td width="35" bordercolor="#D2D200" height="7" align="center"><font face="Verdana" size="1"> NA</font></td> 
+               <td width="35" bordercolor="#D2D200" height="7" align="center"><font face="Verdana" size="1"> NA</font></td> 
+               <td width="36" bordercolor="#D2D200" height="7" align="center"><font face="Verdana" size="1"> NA</font></td> 
+               <td width="36" bordercolor="#D2D200" height="7" align="center"><font face="Verdana" size="1"> NA</font></td> 
+               <td width="29" bordercolor="#D2D200" height="7" align="center"><font face="Verdana" size="1"> NA</font></td> 
+              </tr> 
+              <tr> 
+               <td width="105" bordercolor="#D2D200" height="12" align="left"><font face="Verdana" size="1">Transport Facility</font></td> 
+               <td width="27" bordercolor="#D2D200" height="12" align="center"><font face="Verdana" size="1"> 0</font></td> 
+               <td width="35" bordercolor="#D2D200" height="12" align="center"><font face="Verdana" size="1"> 0</font></td> 
+               <td width="35" bordercolor="#D2D200" height="12" align="center"><font face="Verdana" size="1"> 0</font></td> 
+               <td width="35" bordercolor="#D2D200" height="12" align="center"><font face="Verdana" size="1"> 0</font></td> 
+               <td width="35" bordercolor="#D2D200" height="12" align="center"><font face="Verdana" size="1"> 0</font></td> 
+               <td width="34" bordercolor="#D2D200" height="12" align="center"><font face="Verdana" size="1"> 0</font></td> 
+               <td width="36" bordercolor="#D2D200" height="12" align="center"><font face="Verdana" size="1"> 0</font></td> 
+               <td width="35" bordercolor="#D2D200" height="12" align="center"><font face="Verdana" size="1"> 0</font></td> 
+               <td width="35" bordercolor="#D2D200" height="12" align="center"><font face="Verdana" size="1"> 0</font></td> 
+               <td width="35" bordercolor="#D2D200" height="12" align="center"><font face="Verdana" size="1"> 0</font></td> 
+               <td width="35" bordercolor="#D2D200" height="12" align="center"><font face="Verdana" size="1"> NA</font></td> 
+               <td width="35" bordercolor="#D2D200" height="12" align="center"><font face="Verdana" size="1"> NA</font></td> 
+               <td width="35" bordercolor="#D2D200" height="12" align="center"><font face="Verdana" size="1"> NA</font></td> 
+               <td width="35" bordercolor="#D2D200" height="12" align="center"><font face="Verdana" size="1"> NA</font></td> 
+               <td width="35" bordercolor="#D2D200" height="12" align="center"><font face="Verdana" size="1"> NA</font></td> 
+               <td width="35" bordercolor="#D2D200" height="12" align="center"><font face="Verdana" size="1"> NA</font></td> 
+               <td width="35" bordercolor="#D2D200" height="12" align="center"><font face="Verdana" size="1"> NA</font></td> 
+               <td width="36" bordercolor="#D2D200" height="12" align="center"><font face="Verdana" size="1"> NA</font></td> 
+               <td width="36" bordercolor="#D2D200" height="12" align="center"><font face="Verdana" size="1"> NA</font></td> 
+               <td width="29" bordercolor="#D2D200" height="12" align="center"><font face="Verdana" size="1"> NA</font></td> 
+              </tr> 
+              <tr> 
+               <td width="105" bordercolor="#D2D200" height="12" align="left"><font face="Verdana" size="1">Residential Facility</font></td> 
+               <td width="27" bordercolor="#D2D200" height="12" align="center"><font face="Verdana" size="1"> 0</font></td> 
+               <td width="35" bordercolor="#D2D200" height="12" align="center"><font face="Verdana" size="1"> 0</font></td> 
+               <td width="35" bordercolor="#D2D200" height="12" align="center"><font face="Verdana" size="1"> 0</font></td> 
+               <td width="35" bordercolor="#D2D200" height="12" align="center"><font face="Verdana" size="1"> 0</font></td> 
+               <td width="35" bordercolor="#D2D200" height="12" align="center"><font face="Verdana" size="1"> 0</font></td> 
+               <td width="34" bordercolor="#D2D200" height="12" align="center"><font face="Verdana" size="1"> 0</font></td> 
+               <td width="36" bordercolor="#D2D200" height="12" align="center"><font face="Verdana" size="1"> 0</font></td> 
+               <td width="35" bordercolor="#D2D200" height="12" align="center"><font face="Verdana" size="1"> 0</font></td> 
+               <td width="35" bordercolor="#D2D200" height="12" align="center"><font face="Verdana" size="1"> 0</font></td> 
+               <td width="35" bordercolor="#D2D200" height="12" align="center"><font face="Verdana" size="1"> 0</font></td> 
+               <td width="35" bordercolor="#D2D200" height="12" align="center"><font face="Verdana" size="1"> NA</font></td> 
+               <td width="35" bordercolor="#D2D200" height="12" align="center"><font face="Verdana" size="1"> NA</font></td> 
+               <td width="35" bordercolor="#D2D200" height="12" align="center"><font face="Verdana" size="1"> NA</font></td> 
+               <td width="35" bordercolor="#D2D200" height="12" align="center"><font face="Verdana" size="1"> NA</font></td> 
+               <td width="35" bordercolor="#D2D200" height="12" align="center"><font face="Verdana" size="1"> NA</font></td> 
+               <td width="35" bordercolor="#D2D200" height="12" align="center"><font face="Verdana" size="1"> NA</font></td> 
+               <td width="35" bordercolor="#D2D200" height="12" align="center"><font face="Verdana" size="1"> NA</font></td> 
+               <td width="36" bordercolor="#D2D200" height="12" align="center"><font face="Verdana" size="1"> NA</font></td> 
+               <td width="36" bordercolor="#D2D200" height="12" align="center"><font face="Verdana" size="1"> NA</font></td> 
+               <td width="29" bordercolor="#D2D200" height="12" align="center"><font face="Verdana" size="1"> NA</font></td> 
+              </tr> 
+             </tbody>
+            </table> <font size="1"> </font><font face="Verdana" size="1"> </font><font size="1"> </font><font size="1"> </font><font size="1"> </font>
+            <table border="1" cellpadding="0" cellspacing="0" rowpadding="0" rowspacing="0" width="910" style="border-collapse: collapse" bordercolor="#C0C0C0" height="98"> 
+             <tbody>
+              <tr height="19"> 
+               <td width="767" align="left" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="13" colspan="6" bgcolor="#990033"> <b><font size="1" face="Verdana" color="#FFFFFF">Key Indicators</font></b></td> 
+              </tr> 
+              <tr height="19"> 
+               <td width="100" align="left" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="12"> <font size="1" face="Verdana">Pupil : Teacher Ratio</font></td> 
+               <td align="center" width="20" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="12"><font face="Verdana" size="1">31</font></td> 
+               <td width="150" align="left" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="12"> <font face="Verdana"><font size="1">Student : Classroom Ratio</font></font></td>  
+               <td width="47" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="12"><font face="Verdana" size="1">183</font></td> 
+               <td width="300" align="left" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="1"> <font face="Verdana" size="1">% Change in Enr. Over Prev. Year</font></td>  
+               <td width="30" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="1"><font face="Verdana" size="1"> -4.69 </font></td> 
+              </tr> 
+              <tr height="17"> 
+               <td width="100" align="left" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="15"> <font face="Verdana"><font size="1">% SC Students</font></font></td>  
+               <td width="20" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="15"><font face="Verdana" size="1">0.00</font></td> 
+               <td width="150" align="left" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="15"> <font size="1" face="Verdana">%SC Girls to SC Enrolment</font></td> 
+               <td width="47" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="15"><font face="Verdana" size="1">0.00</font></td> 
+               <td width="300" align="left" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="15"> <font size="1" face="Verdana">% Girls Enrolment</font> </td>  
+               <td width="30" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="15"><font face="Verdana" size="1"> 51.91 </font></td> 
+              </tr> 
+              <tr height="17"> 
+               <td width="100" align="left" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="10"> <font face="Verdana"><font size="1">% ST Students</font></font></td>  
+               <td width="20" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="10"><font face="Verdana" size="1">0.00</font></td> 
+               <td width="150" align="left" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="10"> <font face="Verdana"><font size="1">%ST Girls to ST Enrolment</font></font></td>  
+               <td width="47" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="10"><font face="Verdana" size="1">0.00</font></td> 
+               <td width="300" align="left" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="4"> <font size="1" face="Verdana">% CWSN Enrolment</font></td>  
+               <td width="30" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="4"><font face="Verdana" size="1"> 1.09 </font></td> 
+              </tr> 
+              <tr height="17"> 
+               <td width="100" align="left" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="12"> <font face="Verdana" size="1">%Muslim Students</font></td> 
+               <td width="20" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="12"><font face="Verdana" size="1">8.20</font></td> 
+               <td width="150" align="left" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="12"> <font face="Verdana" size="1">% Muslim Girls to Muslim Enrolment</font></td> 
+               <td width="47" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="12"><font face="Verdana" size="1"> 46.67</font></td> 
+               <td width="197" align="left" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="5"> <font size="1" face="Verdana">%Classrooms Require Major Repair</font></td> 
+               <td width="30" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="12"><font face="Verdana" size="1"> 0.00 </font></td> 
+              </tr> 
+              <tr height="17"> 
+               <td width="100" align="left" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="4"> <font face="Verdana" size="1">% OBC Enrolment</font></td> 
+               <td width="20" align="center" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="4"><font face="Verdana" size="1">34.97</font></td> 
+               <td bordercolorlight="#D2D200" bordercolordark="#D2D200" height="4" width="150"> <font size="1" face="Verdana">% Repeaters to Total Enrolment</font></td> 
+               <td bordercolorlight="#D2D200" bordercolordark="#D2D200" height="4" align="center" width="47"> <font face="Verdana" size="1"> 0.00 </font></td> 
+               <td width="197" align="left" bordercolorlight="#D2D200" bordercolordark="#D2D200" height="5"><font face="Verdana" size="1"> Teachers with Prof. Qualification </font></td> 
+               <td bordercolorlight="#D2D200" bordercolordark="#D2D200" height="4" width="30"> <font face="Verdana" size="1"> 100.00 </font></td> 
+              </tr> 
+              <tr> 
+               <td width="908" bordercolordark="#800080" height="14" colspan="6" bgcolor="#FFFFFF" style="border-left-style: solid; border-left-width: 1; border-right-style: solid; border-right-width: 1; border-top-width: 1; border-bottom-style: solid; border-bottom-width: 1"> 
+                <!-- <p align="right"><b><font face="Verdana" size="1">
+        *: Based on 10 
+        Selected Indicators of RTE.</font></b></td>--> <i><font face="Verdana" size="1">* Based on availability of Ramp, Playground, Boundary Wall, Drinking Water, Boys Toilet, Girls Toilet, Library, PTR≤30 at Primary Schools, PTR ≤35 at Upper Primary Level, SCR≤30 at Primary Schools, SCR ≤35 at Upper Primary Level and Classroom-Teacher Ratio</font><font size="1">≥</font><font face="Verdana" size="1">1.</font></i></td>
+              </tr> 
+              <tr height="17"> 
+               <td width="913" bordercolordark="#D2D200" height="13" colspan="6" bgcolor="#FFFFFF" style="border-left-style: solid; border-left-width: 1; border-right-style: solid; border-right-width: 1; border-top-width: 1; border-bottom-style: solid; border-bottom-width: 1"> <p align="center"><b><font face="Verdana" size="1">CWSN : Children with Special Needs, BRC : Block Resource Center, CRC : Cluster Resource Center , NA : Not Applicable, na : Not Available</font></b></p></td> 
+              </tr> 
+              <tr height="17"> 
+               <td colspan="3" align="left" bordercolorlight="#FFFFFF" bordercolordark="#D2D200" height="12" width="916"> <font size="1" color="#800080" face="Verdana">&copy; 2013, NUEPA, New Delhi, India</font></td> 
+               <td colspan="3" align="left" bordercolorlight="#FFFFFF" bordercolordark="#D2D200" height="12" width="311"> <p align="right"> <font size="1" color="#800080" face="Verdana" align="right">*As on 30<sup>th</sup> September 201</font><font face="Verdana" size="1" color="#800080">2</font></p></td> 
+              </tr> 
+             </tbody>
+            </table> <font face="Verdana" size="1"> </font>     </td>
+          </tr>
+         </tbody>
+        </table></td>
+      </tr>
+     </tbody>
+    </table>
+   </center>
+  </div>
+ </body>
+</html>
