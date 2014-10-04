@@ -10,107 +10,16 @@ import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Map;
 import java.util.Set;
+import java.util.Collection;
+import org.apache.commons.io.* ;
+import org.apache.commons.io.filefilter.* ;
 
 public class Main {
 
-    private static final String HOME = "." ;
-    private static final Set<String> lookupSet = new HashSet<String>() ;
+    private static final String HOME = "/Volumes/TOSHIBA-EXT/cfi2" ;
+    private static final String EXTRACTION_DIR = "run2" ;
     private static final Map<String,String> selectorMap = new HashMap<String, String>() ;
-
-    /*
-        private static String getLocalFileName(String title) {
-            return HOME + File.separator + "data" + File.separator + title ;
-        }
-
-            private static void processUrl() {
-                try {
-                    // url processing
-
-                    // save file to local disk
-
-                    // get url data and save locally
-                    Document doc = Jsoup.connect("http://schoolreportcards.in/seeschoolreportdetail13.asp?cmbschool=28010101201&cmbyear=1950&cmbstate=28&cmbdistrict=All%20Districts").get();
-                    String title = doc.title() ;
-                    String uri = doc.baseUri() ;
-
-                    File dataFile = new File( getLocalFileName(uri)) ;
-                    FileUtils.writeStringToFile(dataFile, doc.html() );
-
-
-                    // get html and parse data into n=v pair in text file
-                }catch(Exception e) {
-                    e.printStackTrace();
-                }
-
-            }
-
-            private static void processFile(String fileName) {
-                try {
-                    Map<String, String> parsedData = new HashMap<String, String>() ;
-                    File input = new File(fileName) ;
-                    Document doc = Jsoup.parse(input, "UTF-8", "http://schoolreportcards.in") ;
-
-                    Elements listOfTD = doc.getElementsByTag("TD") ;
-                    for(Element td : listOfTD) {
-                        String text = td.text() ;
-                        //System.out.println("td:" + text ) ;
-                        String lookupDataFound = findLookupData(text) ;
-                        if(lookupDataFound != null) {
-                            String dataFound = findDataPoint(td,lookupDataFound) ;
-                            if(dataFound != null ) {
-                                parsedData.put(lookupDataFound, dataFound);
-                                System.out.println("found:" + lookupDataFound + "=" + dataFound);
-                            }
-                        }
-                    }
-
-                }catch(Exception e) {
-                    e.printStackTrace();
-                }
-            }
-            private static String findDataPoint(Element elem, String lookupDataFound) {
-
-                String dataFound= null ;
-                // check if the name and value are in same td / tr, if row has more columns
-                if(elem.children().size() > 1) {
-                    // skip the tables and rows, the TD will come again in list of internal TDs
-        //            for(Element child : elem.children()) {
-        //                if(child.tagName().equals("TR"))
-        //                    break ; // internal rows skip, it's columns will be processed for TD tags
-        //
-        //                dataFound = findDataPoint(child, lookupDataFound) ;
-        //                if(dataFound != null ) {
-        //                    break;
-        //                }
-        //            }
-                } else if (elem.children().size() ==1 && (
-                        elem.child(0).tagName().equalsIgnoreCase("TR") || elem.child(0).tagName().equalsIgnoreCase("TABLE")
-                        || elem.child(0).tagName().equalsIgnoreCase("TBODY") )) {
-                } else {
-                    // only one column element
-                    // trim column before testing any name/value
-                    String textData = elem.text().trim();
-                    if (textData != null && textData.contains(lookupDataFound)) {
-                        // if column has only name, check in the next column for value
-                        if (textData.equalsIgnoreCase(lookupDataFound)) {
-                            // value is in next column
-                            dataFound = elem.nextElementSibling().text().trim();
-                        } else {
-                            dataFound = parseElementText(textData, lookupDataFound);
-                        }
-
-                    }
-                }
-                return dataFound;
-            }
-            private static String findLookupData(String text) {
-                for(String str : lookupSet) {
-                    if(text.contains(str))
-                        return str ;
-                }
-                return null;
-            }
-        */
+    private static Map<String,String> fieldNames = new HashMap<String, String>() ;
 
     private static String parseElementText(String textData, String lookupDataFound) {
         int keyLen = lookupDataFound.length() ;
@@ -127,45 +36,114 @@ public class Main {
 
 
     public static void main(String[] args) {
-        lookupSet.add("School Code") ;
-        lookupSet.add("School Name") ;
-        lookupSet.add("Year of Establishment") ;
-        lookupSet.add("PINCODE") ;
-        lookupSet.add("Teacher(s) Male") ;
-        lookupSet.add("Teacher(s) Female") ;
 
+        selectorMap.put("State", "body > div:nth-child(4) > center > table > tbody > tr:nth-child(2) > td:nth-child(1)") ;
+        selectorMap.put("District Name", "body > div:nth-child(4) > center > table > tbody > tr:nth-child(2) > td:nth-child(2)") ;
         selectorMap.put("School Code", "body > div:nth-child(4) > center > table > tbody > tr:nth-child(3) > td:nth-child(1)") ;
         selectorMap.put("School Name", "body > div:nth-child(4) > center > table > tbody > tr:nth-child(3) > td:nth-child(2)") ;
         selectorMap.put("Village Name", "body > div:nth-child(4) > center > table > tbody > tr:nth-child(5) > td:nth-child(1)") ;
-        selectorMap.put("Teacher(s) Male", "body > div:nth-child(4) > center > table > tbody > tr:nth-child(7) > td > table:nth-child(2) > tbody > tr:nth-child(2) > td > table > tbody > tr:nth-child(1) > td:nth-child(5)") ;
-        selectorMap.put("Teacher(s) Female", "body > div:nth-child(4) > center > table > tbody > tr:nth-child(7) > td > table:nth-child(2) > tbody > tr:nth-child(2) > td > table > tbody > tr:nth-child(1) > td:nth-child(7)") ;
-        selectorMap.put("Toilets boys", "body > div:nth-child(4) > center > table > tbody > tr:nth-child(7) > td > table:nth-child(3) > tbody > tr:nth-child(10) > td:nth-child(2)" ) ;
-        selectorMap.put("Toilets girls", "body > div:nth-child(4) > center > table > tbody > tr:nth-child(7) > td > table:nth-child(3) > tbody > tr:nth-child(10) > td:nth-child(3)") ;
+        selectorMap.put("PINCODE", "body > div:nth-child(4) > center > table > tbody > tr:nth-child(6) > td") ;
+        selectorMap.put("Grade*", "body > div:nth-child(4) > center > table > tbody > tr:nth-child(2) > td:nth-child(3)") ;
+        selectorMap.put("teachers_male", "body > div:nth-child(4) > center > table > tbody > tr:nth-child(7) > td > table:nth-child(2) > tbody > tr:nth-child(2) > td > table > tbody > tr:nth-child(1) > td:nth-child(5)") ;
+        selectorMap.put("teachers_female", "body > div:nth-child(4) > center > table > tbody > tr:nth-child(7) > td > table:nth-child(2) > tbody > tr:nth-child(2) > td > table > tbody > tr:nth-child(1) > td:nth-child(7)") ;
+        selectorMap.put("toilets_boys", "body > div:nth-child(4) > center > table > tbody > tr:nth-child(7) > td > table:nth-child(3) > tbody > tr:nth-child(10) > td:nth-child(2)" ) ;
+        selectorMap.put("toilets_girls", "body > div:nth-child(4) > center > table > tbody > tr:nth-child(7) > td > table:nth-child(3) > tbody > tr:nth-child(10) > td:nth-child(3)") ;
 
-        processFile2(HOME + File.separator + "testData" + File.separator + "test.html");
+        populateFieldMap(fieldNames, selectorMap) ;
+
+        generateDataFiles(HOME) ;
+
     }
 
-    private static void processFile2(String fileName) {
+    // convert the key name from selector into field/column names for db. mostly lower case and _
+    // key names are used for matching in text, so can't directly change in selector
+    private static void populateFieldMap(Map<String,String> fields, Map<String,String> selectos) {
+        for(String key : selectos.keySet() ) {
+            fields.put(key, key.toLowerCase().replace(" ", "_") ) ;
+        }
+        fields.put("Grade*", "rating" ) ;
+    }
+
+    private static void generateDataFiles(String dir) {
+        File mainDir = new File(dir + "/files/" ) ;
+        Collection<File> dirList = FileUtils.listFilesAndDirs(mainDir, DirectoryFileFilter.INSTANCE, DirectoryFileFilter.INSTANCE) ;
+        for(File subDir: dirList) {
+            //System.out.println("The sub dir:" + subDir.getName() ) ;
+            long start = System.currentTimeMillis();
+            processDirectory(dir, subDir) ;
+            long end = System.currentTimeMillis() ;
+            System.out.println("Time taken for dir [" + subDir.getName() + "] = " + (end - start) + "ms" ) ;
+
+        }
+    }
+
+    private static void processDirectory(String dir, File subDir) {
+        Collection<File> htmlFiles = FileUtils.listFiles(subDir, new String[]{"html"}, false) ;
+        for(File eachFile : htmlFiles) {
+            //System.out.println("Processing file:" + eachFile.getName() ) ;
+            try {
+                Map<String, String> data = processFile2(eachFile);
+                if(data.size() != 0) {
+                    String dataString = convertMapToString(data) ;
+                    String dataFileName = dir + "/" + EXTRACTION_DIR + "/" + subDir.getName() + "/" + eachFile.getName().replaceFirst(".html", ".txt") ;
+                    //System.out.println("Writing data to file:" + dataFileName) ;
+                    FileUtils.writeStringToFile(new File(dataFileName), dataString, "UTF-8" ) ;
+                }
+            } catch(Exception e) {
+                e.printStackTrace() ;
+            }
+        }
+    }
+
+    private static String convertMapToString(Map<String,String> data) {
+        StringBuilder sb = new StringBuilder() ;
+        for(String key: data.keySet() ) {
+            sb.append(key).append(" = ").append(data.get(key))
+            .append("\n") ;
+        }
+        return sb.toString() ;
+    }
+
+    private static Map<String, String> processFile2(File input) {
+        Map<String, String> parsedData = new HashMap<String, String>() ;
+
         try {
-            Map<String, String> parsedData = new HashMap<String, String>() ;
-            File input = new File(fileName) ;
+            if( input.length() == 0L ){
+                System.out.println("File size is zero for file:" + input.getName() ) ;
+                return parsedData ;
+            }
+
             Document doc = Jsoup.parse(input, "UTF-8", "http://schoolreportcards.in") ;
 
             for(String elem : selectorMap.keySet()) {
                 String dataFound = null ;
-                Element node = doc.select(selectorMap.get(elem)).first() ;
-                String textData = htmlSpaceTrim(node.text()) ;
-                if (textData != null && textData.contains(elem)) {
-                    dataFound = parseElementText(textData, elem);
-                } else {
-                    dataFound = textData ;
+                try {
+                    Element node = doc.select(selectorMap.get(elem)).first() ;
+                    String textData = htmlSpaceTrim(node.text()) ;
+                    if (textData != null && textData.contains(elem)) {
+                        dataFound = parseElementText(textData, elem);
+                    } else {
+                        dataFound = textData ;
+                    }
+                } catch(Exception e) {
+                    System.out.println("Error in getting [" + elem + "] for school:" + input.getName()  + ": error:" +
+                        e.getMessage() ) ;
+                    dataFound = "" ;
                 }
-                parsedData.put(elem, dataFound) ;
+                if("PINCODE".equals(elem) )
+                    dataFound = cleanPincode(dataFound) ;
+                parsedData.put(fieldNames.get(elem), dataFound) ;
             }
-            System.out.println("parsedData:" + parsedData) ;
+            //System.out.println("parsedData:" + parsedData) ;
 
         }catch(Exception e) {
             e.printStackTrace();
         }
+        return parsedData ;
+
+    }
+
+    private static String cleanPincode(String pin) {
+        return pin.substring(1, pin.length() -1) ;
     }
 }
