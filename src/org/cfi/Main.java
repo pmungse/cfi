@@ -16,7 +16,7 @@ import org.apache.commons.io.filefilter.* ;
 
 public class Main {
 
-    private static final String HOME = "/Volumes/TOSHIBA-EXT/cfi2" ;
+    private static final String HOME = "/Volumes/TOSHIBA-EXT/cfi" ;
     private static final String EXTRACTION_DIR = "run2" ;
     private static final Map<String,String> selectorMap = new HashMap<String, String>() ;
     private static Map<String,String> fieldNames = new HashMap<String, String>() ;
@@ -96,11 +96,16 @@ public class Main {
     }
 
     private static String convertMapToString(Map<String,String> data) {
-        StringBuilder sb = new StringBuilder() ;
+        StringBuilder sb = new StringBuilder("{") ;
         for(String key: data.keySet() ) {
-            sb.append(key).append(" = ").append(data.get(key))
-            .append("\n") ;
+            sb
+            .append(" \"").append(key)
+            .append("\" : \"").append(data.get(key)).append("\"")
+            .append(" ,") ;
         }
+        sb.setLength(sb.length() - 1);
+        sb.append(" }") ;
+
         return sb.toString() ;
     }
 
