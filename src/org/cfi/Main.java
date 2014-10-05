@@ -16,8 +16,8 @@ import org.apache.commons.io.filefilter.* ;
 
 public class Main {
 
-    private static final String HOME = "/Volumes/TOSHIBA-EXT/cfi" ;
-    private static final String EXTRACTION_DIR = "run2" ;
+    private static String HOME = "/Volumes/TOSHIBA-EXT/cfi2" ;
+    private static String EXTRACTION_DIR = "run3" ;
     private static final Map<String,String> selectorMap = new HashMap<String, String>() ;
     private static Map<String,String> fieldNames = new HashMap<String, String>() ;
 
@@ -36,6 +36,18 @@ public class Main {
 
 
     public static void main(String[] args) {
+        String dataDir ;
+        String extractDir ;
+
+        if(args.length > 1) 
+            extractDir = args[1] ;
+        else
+            extractDir = EXTRACTION_DIR ;
+        
+        if(args.length > 0) 
+            dataDir = args[0] ;
+        else
+            dataDir = HOME ;
 
         selectorMap.put("State", "body > div:nth-child(4) > center > table > tbody > tr:nth-child(2) > td:nth-child(1)") ;
         selectorMap.put("District Name", "body > div:nth-child(4) > center > table > tbody > tr:nth-child(2) > td:nth-child(2)") ;
@@ -48,10 +60,19 @@ public class Main {
         selectorMap.put("teachers_female", "body > div:nth-child(4) > center > table > tbody > tr:nth-child(7) > td > table:nth-child(2) > tbody > tr:nth-child(2) > td > table > tbody > tr:nth-child(1) > td:nth-child(7)") ;
         selectorMap.put("toilets_boys", "body > div:nth-child(4) > center > table > tbody > tr:nth-child(7) > td > table:nth-child(3) > tbody > tr:nth-child(10) > td:nth-child(2)" ) ;
         selectorMap.put("toilets_girls", "body > div:nth-child(4) > center > table > tbody > tr:nth-child(7) > td > table:nth-child(3) > tbody > tr:nth-child(10) > td:nth-child(3)") ;
+        selectorMap.put("playground", "body > div:nth-child(4) > center > table > tbody > tr:nth-child(7) > td > table:nth-child(3) > tbody > tr:nth-child(5) > td:nth-child(4)") ;
+
+        selectorMap.put("electricity", "body > div:nth-child(4) > center > table > tbody > tr:nth-child(7) > td > table:nth-child(3) > tbody > tr:nth-child(7) > td:nth-child(4)") ;
+        selectorMap.put("computer_lab", "body > div:nth-child(4) > center > table > tbody > tr:nth-child(7) > td > table:nth-child(3) > tbody > tr:nth-child(7) > td:nth-child(6)") ;
+        selectorMap.put("no_of_computers", "body > div:nth-child(4) > center > table > tbody > tr:nth-child(7) > td > table:nth-child(3) > tbody > tr:nth-child(8) > td:nth-child(4)") ;
+        selectorMap.put("library", "body > div:nth-child(4) > center > table > tbody > tr:nth-child(7) > td > table:nth-child(3) > tbody > tr:nth-child(9) > td:nth-child(5)") ;
+        selectorMap.put("books_in_library", "body > div:nth-child(4) > center > table > tbody > tr:nth-child(7) > td > table:nth-child(3) > tbody > tr:nth-child(9) > td:nth-child(7)") ;
+        selectorMap.put("drinking_water", "body > div:nth-child(4) > center > table > tbody > tr:nth-child(7) > td > table:nth-child(3) > tbody > tr:nth-child(10) > td:nth-child(5)") ;
+
 
         populateFieldMap(fieldNames, selectorMap) ;
 
-        generateDataFiles(HOME) ;
+        generateDataFiles(dataDir, extractDir) ;
 
     }
 
@@ -64,20 +85,20 @@ public class Main {
         fields.put("Grade*", "rating" ) ;
     }
 
-    private static void generateDataFiles(String dir) {
+    private static void generateDataFiles(String dir, String extractDir) {
         File mainDir = new File(dir + "/files/" ) ;
         Collection<File> dirList = FileUtils.listFilesAndDirs(mainDir, DirectoryFileFilter.INSTANCE, DirectoryFileFilter.INSTANCE) ;
         for(File subDir: dirList) {
             //System.out.println("The sub dir:" + subDir.getName() ) ;
             long start = System.currentTimeMillis();
-            processDirectory(dir, subDir) ;
+            processDirectory(dir, subDir, extractDir) ;
             long end = System.currentTimeMillis() ;
             System.out.println("Time taken for dir [" + subDir.getName() + "] = " + (end - start) + "ms" ) ;
 
         }
     }
 
-    private static void processDirectory(String dir, File subDir) {
+    private static void processDirectory(String dir, File subDir, String extractDir) {
         Collection<File> htmlFiles = FileUtils.listFiles(subDir, new String[]{"html"}, false) ;
         for(File eachFile : htmlFiles) {
             //System.out.println("Processing file:" + eachFile.getName() ) ;
@@ -85,7 +106,7 @@ public class Main {
                 Map<String, String> data = processFile2(eachFile);
                 if(data.size() != 0) {
                     String dataString = convertMapToString(data) ;
-                    String dataFileName = dir + "/" + EXTRACTION_DIR + "/" + subDir.getName() + "/" + eachFile.getName().replaceFirst(".html", ".txt") ;
+                    String dataFileName = dir + "/" + extractDir + "/" + subDir.getName() + "/" + eachFile.getName().replaceFirst(".html", ".txt") ;
                     //System.out.println("Writing data to file:" + dataFileName) ;
                     FileUtils.writeStringToFile(new File(dataFileName), dataString, "UTF-8" ) ;
                 }
@@ -149,6 +170,9 @@ public class Main {
     }
 
     private static String cleanPincode(String pin) {
-        return pin.substring(1, pin.length() -1) ;
+        if(pin == null )
+            return null ;
+        else
+            return pin.substring(1, pin.length() -1) ;
     }
 }
