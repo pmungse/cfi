@@ -16,8 +16,8 @@ import org.apache.commons.io.filefilter.* ;
 
 public class Main {
 
-    private static String HOME = "/Volumes/TOSHIBA-EXT/cfi2" ;
-    private static String EXTRACTION_DIR = "run3" ;
+    private static String HOME = "/Volumes/TOSHIBA-EXT/cfi" ;
+    private static String EXTRACTION_DIR = "run4" ;
     private static final Map<String,String> selectorMap = new HashMap<String, String>() ;
     private static Map<String,String> fieldNames = new HashMap<String, String>() ;
 
@@ -91,16 +91,19 @@ public class Main {
         for(File subDir: dirList) {
             //System.out.println("The sub dir:" + subDir.getName() ) ;
             long start = System.currentTimeMillis();
-            processDirectory(dir, subDir, extractDir) ;
+            long filesProcessed = processDirectory(dir, subDir, extractDir) ;
             long end = System.currentTimeMillis() ;
-            System.out.println("Time taken for dir [" + subDir.getName() + "] = " + (end - start) + "ms" ) ;
+            System.out.println("Time taken for dir [" + subDir.getName() + "], files = " + filesProcessed
+		+ ", time = " + (end - start) + "ms" ) ;
 
         }
     }
 
-    private static void processDirectory(String dir, File subDir, String extractDir) {
+    private static long processDirectory(String dir, File subDir, String extractDir) {
+	long counter = 0L ;
         Collection<File> htmlFiles = FileUtils.listFiles(subDir, new String[]{"html"}, false) ;
         for(File eachFile : htmlFiles) {
+	    counter++ ;
             //System.out.println("Processing file:" + eachFile.getName() ) ;
             try {
                 Map<String, String> data = processFile2(eachFile);
@@ -114,6 +117,7 @@ public class Main {
                 e.printStackTrace() ;
             }
         }
+	return counter ;
     }
 
     private static String convertMapToString(Map<String,String> data) {
