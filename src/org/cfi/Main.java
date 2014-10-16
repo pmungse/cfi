@@ -83,6 +83,7 @@ public class Main {
             fields.put(key, key.toLowerCase().replace(" ", "_") ) ;
         }
         fields.put("Grade*", "rating" ) ;
+        fields.put("School Code", "school_id" ) ;
     }
 
     private static void generateDataFiles(String dir, String extractDir) {
