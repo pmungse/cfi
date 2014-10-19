@@ -1,23 +1,21 @@
 package org.cfi;
 
 import org.apache.commons.io.FileUtils;
+import org.json.simple.JSONObject;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 
 import java.io.File;
-import java.util.HashMap;
-import java.util.HashSet;
-import java.util.Map;
-import java.util.Set;
-import java.util.Collection;
+import java.util.*;
+
 import org.apache.commons.io.* ;
 import org.apache.commons.io.filefilter.* ;
 
 public class Main {
 
     private static String HOME = "/Volumes/TOSHIBA-EXT/cfi" ;
-    private static String EXTRACTION_DIR = "run4" ;
+    private static String EXTRACTION_DIR = "/Users/pritam_mungse/Documents/workspace/code-for-india/extracted/run5" ;
     private static final Map<String,String> selectorMap = new HashMap<String, String>() ;
     private static Map<String,String> fieldNames = new HashMap<String, String>() ;
 
@@ -78,8 +76,8 @@ public class Main {
 
     // convert the key name from selector into field/column names for db. mostly lower case and _
     // key names are used for matching in text, so can't directly change in selector
-    private static void populateFieldMap(Map<String,String> fields, Map<String,String> selectos) {
-        for(String key : selectos.keySet() ) {
+    private static void populateFieldMap(Map<String,String> fields, Map<String,String> selectors) {
+        for(String key : selectors.keySet() ) {
             fields.put(key, key.toLowerCase().replace(" ", "_") ) ;
         }
         fields.put("Grade*", "rating" ) ;
@@ -92,7 +90,7 @@ public class Main {
         for(File subDir: dirList) {
             //System.out.println("The sub dir:" + subDir.getName() ) ;
             long start = System.currentTimeMillis();
-            long filesProcessed = processDirectory(dir, subDir, extractDir) ;
+            long filesProcessed = processDirectory(subDir, extractDir) ;
             long end = System.currentTimeMillis() ;
             System.out.println("Time taken for dir [" + subDir.getName() + "], files = " + filesProcessed
 		+ ", time = " + (end - start) + "ms" ) ;
@@ -100,39 +98,37 @@ public class Main {
         }
     }
 
-    private static long processDirectory(String dir, File subDir, String extractDir) {
-	long counter = 0L ;
-        Collection<File> htmlFiles = FileUtils.listFiles(subDir, new String[]{"html"}, false) ;
-        for(File eachFile : htmlFiles) {
-	    counter++ ;
-            //System.out.println("Processing file:" + eachFile.getName() ) ;
-            try {
-                Map<String, String> data = processFile2(eachFile);
-                if(data.size() != 0) {
-                    String dataString = convertMapToString(data) ;
-                    String dataFileName = dir + "/" + extractDir + "/" + subDir.getName() + "/" + eachFile.getName().replaceFirst(".html", ".txt") ;
-                    //System.out.println("Writing data to file:" + dataFileName) ;
-                    FileUtils.writeStringToFile(new File(dataFileName), dataString, "UTF-8" ) ;
+    private static long processDirectory(File subDir, String extractDir) {
+        long counter = 0L ;
+        try {
+            Collection<File> htmlFiles = FileUtils.listFiles(subDir, new String[]{"html"}, false);
+            String toJsonFile = extractDir + File.separator + subDir.getName() + ".data.json";
+            Collection<String> jsonStrings = new ArrayList<String>();
+            for (File eachFile : htmlFiles) {
+                counter++;
+                try {
+                    Map<String, String> data = processFile2(eachFile);
+                    if (data.size() != 0) {
+                        String dataString = convertMapToString(data);
+                        jsonStrings.add(dataString);
+                    }
+                } catch (Exception e) {
+                    System.out.println("Exception while processing file: " + eachFile.getAbsolutePath() ) ;
+                    e.printStackTrace();
                 }
-            } catch(Exception e) {
-                e.printStackTrace() ;
             }
+            FileUtils.writeLines(new File(toJsonFile), "UTF-8", jsonStrings) ;
+        }catch(Exception e) {
+            System.out.println("Exception while processing subDir: " + subDir.getAbsolutePath() ) ;
+            e.printStackTrace();
         }
-	return counter ;
+        return counter ;
     }
 
     private static String convertMapToString(Map<String,String> data) {
-        StringBuilder sb = new StringBuilder("{") ;
-        for(String key: data.keySet() ) {
-            sb
-            .append(" \"").append(key)
-            .append("\" : \"").append(data.get(key)).append("\"")
-            .append(" ,") ;
-        }
-        sb.setLength(sb.length() - 1);
-        sb.append(" }") ;
-
-        return sb.toString() ;
+        JSONObject obj = new JSONObject();
+        obj.putAll(data) ;
+        return obj.toJSONString() ;
     }
 
     private static Map<String, String> processFile2(File input) {
